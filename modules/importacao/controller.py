@@ -2,6 +2,7 @@ from fastapi import APIRouter, HTTPException, Request
 from modules.shared.database import get_db
 from modules.shared.logger import logger
 from modules.tratamento_mensagem.service import limpar_mensagem
+from modules.nova_tabela_descricao_dataset.service import extrair_descricao
 
 router = APIRouter(prefix="/api/v1")
 
@@ -42,7 +43,14 @@ def processar_batch(batch: list):
     items = list(db["interacoes"].find({"chamadoId": {"$in": batch}}))
     
     for item in items:
-        item["mensagem_limpa"] = limpar_mensagem(item.get("mensagem", ""))
+        # Etapa 1: Limpeza da mensagem
+        mensagem_limpa = limpar_mensagem(item.get("mensagem", ""))
+        item["mensagem_limpa"] = mensagem_limpa
+        
+        # Etapa 2: Extração da descrição
+        item["descricao_dataset"] = extrair_descricao(mensagem_limpa)
+        
+        # Atualiza no MongoDB
         db["interacoes_processadas"].update_one(
             {"chamadoId": item["chamadoId"]},
             {"$set": item},
