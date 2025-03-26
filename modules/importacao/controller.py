@@ -3,6 +3,7 @@ from modules.shared.database import get_db
 from modules.shared.logger import logger
 from modules.tratamento_mensagem.service import limpar_mensagem
 from modules.nova_tabela_descricao_dataset.service import extrair_descricao
+from modules.tratamento_descricao_dataset.service import limpar_descricao
 
 router = APIRouter(prefix="/api/v1")
 
@@ -48,9 +49,12 @@ def processar_batch(batch: list):
         item["mensagem_limpa"] = mensagem_limpa
         
         # Etapa 2: Extração da descrição
-        item["descricao_dataset"] = extrair_descricao(mensagem_limpa)
+        descricao = extrair_descricao(mensagem_limpa)
         
-        # Atualiza no MongoDB
+        # Etapa 3: Tratamento da descrição (ATUALIZA A MESMA COLUNA)
+        item["descricao_dataset"] = limpar_descricao(descricao)
+        
+        # Atualização no MongoDB
         db["interacoes_processadas"].update_one(
             {"chamadoId": item["chamadoId"]},
             {"$set": item},
