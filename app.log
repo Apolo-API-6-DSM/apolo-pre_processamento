@@ -65,3 +65,1161 @@
 2025-03-26 16:49:47,750 - INFO - Processado lote 7/11
 2025-03-26 16:49:51,539 - INFO - Processado lote 8/11
 2025-03-26 16:49:55,153 - INFO - Processado lote 9/11
+2025-03-26 16:49:59,120 - INFO - Processado lote 10/11
+2025-03-26 17:03:58,059 - INFO - Iniciando processamento para 1000 IDs
+2025-03-26 17:03:58,992 - ERROR - Erro no processamento: Anonimizador.anonimizar_texto() missing 1 required positional argument: 'texto'
+2025-03-26 17:45:54,357 - INFO - Iniciando processamento para 1000 IDs
+2025-03-26 17:45:55,166 - ERROR - Erro no processamento: Anonimizador.anonimizar_texto() missing 1 required positional argument: 'texto'
+2025-03-26 18:15:08,947 - INFO - Iniciando processamento para 1000 IDs
+2025-03-26 18:15:09,952 - ERROR - Erro no processamento: Anonimizador.anonimizar_texto() missing 1 required positional argument: 'texto'
+2025-03-26 18:23:16,779 - INFO - Iniciando processamento para 1000 IDs
+2025-03-26 18:23:21,116 - INFO - Modelo spaCy carregado com sucesso
+2025-03-26 18:23:31,891 - INFO - Modelo spaCy carregado com sucesso
+2025-03-26 18:23:39,489 - INFO - Modelo spaCy carregado com sucesso
+2025-03-26 18:23:45,646 - INFO - Modelo spaCy carregado com sucesso
+2025-03-26 18:23:50,444 - INFO - Modelo spaCy carregado com sucesso
+2025-03-26 18:23:54,914 - INFO - Modelo spaCy carregado com sucesso
+2025-03-26 18:24:06,146 - INFO - Modelo spaCy carregado com sucesso
+2025-03-26 18:24:24,671 - INFO - Modelo spaCy carregado com sucesso
+2025-03-26 18:24:41,061 - INFO - Modelo spaCy carregado com sucesso
+2025-03-26 18:25:02,246 - INFO - Modelo spaCy carregado com sucesso
+2025-03-26 18:25:09,420 - INFO - Modelo spaCy carregado com sucesso
+2025-03-26 18:25:14,695 - INFO - Modelo spaCy carregado com sucesso
+2025-03-26 18:25:20,397 - INFO - Modelo spaCy carregado com sucesso
+2025-03-26 18:25:32,754 - INFO - Modelo spaCy carregado com sucesso
+2025-03-26 18:25:49,155 - INFO - Modelo spaCy carregado com sucesso
+2025-03-26 18:25:55,249 - INFO - Modelo spaCy carregado com sucesso
+2025-03-26 18:26:01,657 - INFO - Modelo spaCy carregado com sucesso
+2025-03-26 18:26:08,059 - INFO - Modelo spaCy carregado com sucesso
+2025-03-26 18:26:23,213 - INFO - Modelo spaCy carregado com sucesso
+2025-03-26 18:26:38,922 - INFO - Modelo spaCy carregado com sucesso
+2025-03-26 18:26:52,992 - INFO - Modelo spaCy carregado com sucesso
+2025-03-26 18:27:00,057 - INFO - Modelo spaCy carregado com sucesso
+2025-03-26 18:27:07,712 - INFO - Modelo spaCy carregado com sucesso
+2025-03-26 18:27:24,131 - INFO - Modelo spaCy carregado com sucesso
+2025-03-26 18:28:03,629 - INFO - Modelo spaCy carregado com sucesso
+2025-03-26 18:28:17,482 - INFO - Modelo spaCy carregado com sucesso
+2025-03-26 18:28:22,117 - INFO - Modelo spaCy carregado com sucesso
+2025-03-26 18:28:27,089 - INFO - Modelo spaCy carregado com sucesso
+2025-03-26 18:28:37,918 - INFO - Modelo spaCy carregado com sucesso
+2025-03-26 18:28:49,860 - INFO - Modelo spaCy carregado com sucesso
+2025-03-26 18:29:03,212 - INFO - Modelo spaCy carregado com sucesso
+2025-03-26 18:29:08,920 - INFO - Modelo spaCy carregado com sucesso
+2025-03-26 18:29:13,196 - INFO - Modelo spaCy carregado com sucesso
+2025-03-26 18:29:18,888 - INFO - Modelo spaCy carregado com sucesso
+2025-03-26 18:29:33,192 - INFO - Modelo spaCy carregado com sucesso
+2025-03-26 18:29:45,367 - INFO - Modelo spaCy carregado com sucesso
+2025-03-26 18:29:50,736 - INFO - Modelo spaCy carregado com sucesso
+2025-03-26 18:29:55,471 - INFO - Modelo spaCy carregado com sucesso
+2025-03-26 18:30:02,578 - INFO - Modelo spaCy carregado com sucesso
+2025-03-26 18:30:28,969 - INFO - Modelo spaCy carregado com sucesso
+2025-03-26 18:30:51,584 - INFO - Modelo spaCy carregado com sucesso
+2025-03-26 18:31:05,604 - INFO - Modelo spaCy carregado com sucesso
+2025-03-26 18:31:11,448 - INFO - Modelo spaCy carregado com sucesso
+2025-03-26 18:31:17,649 - INFO - Modelo spaCy carregado com sucesso
+2025-03-26 18:31:36,460 - INFO - Modelo spaCy carregado com sucesso
+2025-03-26 18:31:45,965 - INFO - Modelo spaCy carregado com sucesso
+2025-03-26 18:31:57,743 - INFO - Modelo spaCy carregado com sucesso
+2025-03-26 18:32:03,552 - INFO - Modelo spaCy carregado com sucesso
+2025-03-26 18:32:09,959 - INFO - Modelo spaCy carregado com sucesso
+2025-03-26 18:32:22,438 - INFO - Modelo spaCy carregado com sucesso
+2025-03-26 18:32:29,697 - INFO - Modelo spaCy carregado com sucesso
+2025-03-26 18:33:03,844 - INFO - Modelo spaCy carregado com sucesso
+2025-03-26 18:33:10,372 - INFO - Modelo spaCy carregado com sucesso
+2025-03-26 18:33:16,651 - INFO - Modelo spaCy carregado com sucesso
+2025-03-26 18:33:23,962 - INFO - Modelo spaCy carregado com sucesso
+2025-03-26 18:33:37,028 - INFO - Modelo spaCy carregado com sucesso
+2025-03-26 18:33:53,338 - INFO - Modelo spaCy carregado com sucesso
+2025-03-26 18:33:59,128 - INFO - Modelo spaCy carregado com sucesso
+2025-03-26 18:34:03,520 - INFO - Modelo spaCy carregado com sucesso
+2025-03-26 18:34:08,596 - INFO - Modelo spaCy carregado com sucesso
+2025-03-26 18:34:28,620 - INFO - Modelo spaCy carregado com sucesso
+2025-03-26 18:34:37,695 - INFO - Modelo spaCy carregado com sucesso
+2025-03-26 18:34:47,279 - INFO - Modelo spaCy carregado com sucesso
+2025-03-26 18:34:52,059 - INFO - Modelo spaCy carregado com sucesso
+2025-03-26 18:34:58,354 - INFO - Modelo spaCy carregado com sucesso
+2025-03-26 18:35:10,359 - INFO - Modelo spaCy carregado com sucesso
+2025-03-26 18:35:19,114 - INFO - Modelo spaCy carregado com sucesso
+2025-03-26 18:35:31,167 - INFO - Modelo spaCy carregado com sucesso
+2025-03-26 18:35:37,402 - INFO - Modelo spaCy carregado com sucesso
+2025-03-26 18:35:43,000 - INFO - Modelo spaCy carregado com sucesso
+2025-03-26 18:35:57,413 - INFO - Modelo spaCy carregado com sucesso
+2025-03-26 18:36:05,943 - INFO - Modelo spaCy carregado com sucesso
+2025-03-26 18:36:16,293 - INFO - Modelo spaCy carregado com sucesso
+2025-03-26 18:36:21,650 - INFO - Modelo spaCy carregado com sucesso
+2025-03-26 18:36:25,130 - INFO - Modelo spaCy carregado com sucesso
+2025-03-26 18:42:37,304 - INFO - Iniciando processamento para 1000 IDs
+2025-03-26 18:42:39,698 - INFO - Modelo spaCy carregado com sucesso
+2025-03-26 18:42:48,522 - INFO - Processamento concluído para 100 itens
+2025-03-26 18:42:48,524 - ERROR - Erro no processamento: 'NoneType' object is not iterable
+2025-03-26 18:48:01,041 - INFO - Iniciando processamento para 1000 IDs
+2025-03-26 18:48:06,081 - INFO - Modelo spaCy carregado com sucesso
+2025-03-26 18:48:19,354 - INFO - Processamento concluído para 100 itens
+2025-03-26 18:48:19,355 - INFO - Processado lote 1/11
+2025-03-26 18:48:27,412 - INFO - Processamento concluído para 100 itens
+2025-03-26 18:48:27,415 - INFO - Processado lote 2/11
+2025-03-26 18:48:35,457 - INFO - Processamento concluído para 100 itens
+2025-03-26 18:48:35,458 - INFO - Processado lote 3/11
+2025-03-26 18:48:42,606 - INFO - Processamento concluído para 100 itens
+2025-03-26 18:48:42,607 - INFO - Processado lote 4/11
+2025-03-26 18:48:49,593 - INFO - Processamento concluído para 100 itens
+2025-03-26 18:48:49,594 - INFO - Processado lote 5/11
+2025-03-26 18:48:56,558 - INFO - Processamento concluído para 100 itens
+2025-03-26 18:48:56,560 - INFO - Processado lote 6/11
+2025-03-26 18:49:03,247 - INFO - Processamento concluído para 100 itens
+2025-03-26 18:49:03,248 - INFO - Processado lote 7/11
+2025-03-26 18:49:10,522 - INFO - Processamento concluído para 100 itens
+2025-03-26 18:49:10,523 - INFO - Processado lote 8/11
+2025-03-26 18:49:17,010 - INFO - Processamento concluído para 100 itens
+2025-03-26 18:49:17,011 - INFO - Processado lote 9/11
+2025-03-26 18:49:25,290 - INFO - Processamento concluído para 100 itens
+2025-03-26 18:49:25,291 - INFO - Processado lote 10/11
+2025-03-26 18:54:14,229 - INFO - Iniciando processamento para 1000 IDs
+2025-03-26 18:54:17,200 - INFO - Modelo spaCy carregado com sucesso
+2025-03-26 18:54:27,420 - INFO - Processamento concluído para 100 itens
+2025-03-26 18:54:27,423 - INFO - Processado lote 1/11
+2025-03-26 18:54:34,423 - INFO - Processamento concluído para 100 itens
+2025-03-26 18:54:34,425 - INFO - Processado lote 2/11
+2025-03-26 18:54:41,928 - INFO - Processamento concluído para 100 itens
+2025-03-26 18:54:41,929 - INFO - Processado lote 3/11
+2025-03-26 18:54:48,921 - INFO - Processamento concluído para 100 itens
+2025-03-26 18:54:48,923 - INFO - Processado lote 4/11
+2025-03-26 18:54:55,585 - INFO - Processamento concluído para 100 itens
+2025-03-26 18:54:55,586 - INFO - Processado lote 5/11
+2025-03-26 18:55:02,068 - INFO - Processamento concluído para 100 itens
+2025-03-26 18:55:02,069 - INFO - Processado lote 6/11
+2025-03-26 18:55:08,289 - INFO - Processamento concluído para 100 itens
+2025-03-26 18:55:08,290 - INFO - Processado lote 7/11
+2025-03-26 18:55:15,062 - INFO - Processamento concluído para 100 itens
+2025-03-26 18:55:15,063 - INFO - Processado lote 8/11
+2025-03-26 18:55:21,453 - INFO - Processamento concluído para 100 itens
+2025-03-26 18:55:21,455 - INFO - Processado lote 9/11
+2025-03-26 18:55:28,849 - INFO - Processamento concluído para 100 itens
+2025-03-26 18:55:28,850 - INFO - Processado lote 10/11
+2025-03-26 19:06:01,191 - INFO - Iniciando processamento para 1000 IDs
+2025-03-26 19:06:05,450 - INFO - Modelo spaCy carregado com sucesso
+2025-03-26 19:06:15,905 - INFO - Processamento concluído para 100 itens
+2025-03-26 19:06:15,907 - INFO - Processado lote 1/11
+2025-03-26 19:06:23,540 - INFO - Processamento concluído para 100 itens
+2025-03-26 19:06:23,542 - INFO - Processado lote 2/11
+2025-03-26 19:06:31,531 - INFO - Processamento concluído para 100 itens
+2025-03-26 19:06:31,532 - INFO - Processado lote 3/11
+2025-03-26 19:06:41,826 - INFO - Processamento concluído para 100 itens
+2025-03-26 19:06:41,827 - INFO - Processado lote 4/11
+2025-03-26 19:06:54,372 - INFO - Processamento concluído para 100 itens
+2025-03-26 19:06:54,373 - INFO - Processado lote 5/11
+2025-03-26 19:07:04,927 - INFO - Processamento concluído para 100 itens
+2025-03-26 19:07:04,928 - INFO - Processado lote 6/11
+2025-03-26 19:07:14,187 - INFO - Processamento concluído para 100 itens
+2025-03-26 19:07:14,190 - INFO - Processado lote 7/11
+2025-03-26 19:07:23,890 - INFO - Processamento concluído para 100 itens
+2025-03-26 19:07:23,892 - INFO - Processado lote 8/11
+2025-03-26 19:07:32,991 - INFO - Processamento concluído para 100 itens
+2025-03-26 19:07:32,992 - INFO - Processado lote 9/11
+2025-03-26 19:07:41,874 - INFO - Processamento concluído para 100 itens
+2025-03-26 19:07:41,875 - INFO - Processado lote 10/11
+2025-03-26 19:12:17,485 - INFO - Iniciando processamento para 1000 IDs
+2025-03-26 19:12:21,706 - INFO - Modelo spaCy carregado com sucesso
+2025-03-26 19:12:25,231 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:25,594 - ERROR - Erro ao anonimizar texto. Texto: 'Boa tarde! Peço que seja realizado o cadastro do c...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:25,721 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:25,883 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:26,023 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:26,144 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:26,346 - ERROR - Erro ao anonimizar texto. Texto: 'Boa tarde Solicito o cancelamento das seguintes or...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:26,436 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:26,579 - ERROR - Erro ao anonimizar texto. Texto: 'Solicitação de Admissão - CLT - Alesandra Valois| ...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:26,724 - ERROR - Erro ao anonimizar texto. Texto: 'Solicitação de Admissão - CLT - Alesandra Valois| ...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:26,821 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:26,917 - ERROR - Erro ao anonimizar texto. Texto: 'and scheduled run resource usage limit reached You...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:27,027 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia! Solicito a exclusão da preventiva “Leitur...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:27,245 - ERROR - Erro ao anonimizar texto. Texto: '999 monitoring and scheduled run calls left Your t...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:27,694 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:27,802 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:27,902 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Aviso Prévio Trabalhado|...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:28,000 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Aviso Prévio Trabalhado|...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:28,380 - ERROR - Erro ao anonimizar texto. Texto: 'Bom Dia Preciso do cancelamento dessa O S pois a m...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:28,455 - ERROR - Erro ao anonimizar texto. Texto: 'Reactivate your account by making your payment | |...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:28,550 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia Solicito liberação do contrato *EMATER* no...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:28,720 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:28,812 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:28,930 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:29,027 - ERROR - Erro ao anonimizar texto. Texto: 'Boa tarde Venho por meio deste solicitar o cancela...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:29,127 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia! Exclusão de preventiva – Hospital Regiona...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:29,220 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia! Solicito a exclusão de lançamento da prev...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:29,345 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Aviso Prévio Trabalhado|...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:29,463 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Aviso Prévio Trabalhado|...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:29,676 - ERROR - Erro ao anonimizar texto. Texto: 'Boa tarde Luciana Cancela essas preventivas por ge...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:29,815 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:30,187 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Aviso Prévio Trabalhado|...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:30,291 - ERROR - Erro ao anonimizar texto. Texto: 'Boa tarde Solicito o cancelamento das seguintes or...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:30,434 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Aviso Prévio Trabalhado|...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:30,566 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Aviso Prévio Trabalhado|...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:30,665 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:30,869 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia solicito alteração de permissão dos colabo...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:30,952 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:31,040 - ERROR - Erro ao anonimizar texto. Texto: 'Ciente Obter o [Outlook para iOS| ---- *De:* Ingri...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:31,157 - ERROR - Erro ao anonimizar texto. Texto: 'Boa tarde solicito a remoção das seguintes obras d...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:31,263 - ERROR - Erro ao anonimizar texto. Texto: 'Boa tarde Fui nomeado como gestor em outra unidade...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:31,356 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:31,444 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:31,589 - ERROR - Erro ao anonimizar texto. Texto: 'fazer o cadastro do funcionário abaixo: | AMADOR J...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:31,676 - ERROR - Erro ao anonimizar texto. Texto: 'Ao finalizar as OS as mesma não aparecem para sinc...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:31,848 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:31,956 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:32,161 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia Luciana Altera por gentileza o colaborador...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:32,270 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:32,348 - ERROR - Erro ao anonimizar texto. Texto: 'Identificado que os equipamentos estão offline...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:32,484 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia Luciana Cancela por favor essas preventiva...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:32,621 - ERROR - Erro ao anonimizar texto. Texto: 'Foi identificado que os equipamentos estão offline...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:32,714 - ERROR - Erro ao anonimizar texto. Texto: 'BOA TARDE! CONSIDERANDO AS NECESSIDADES DE NOVO PL...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:32,801 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:32,995 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia Luciana Cancela as seguintes ordens por ge...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:33,117 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:33,420 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:33,508 - ERROR - Erro ao anonimizar texto. Texto: 'Boa tarde Venho por meio deste solicitar o cancela...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:33,586 - ERROR - Erro ao anonimizar texto. Texto: 'Take 2 min this week to see your monitors' perform...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:33,680 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia Venho por meio deste solicitar o cancelame...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:33,767 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:33,855 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:33,945 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia Venho por meio deste solicitar o cancelame...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:34,034 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:34,129 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:34,221 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:34,304 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:34,401 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:34,502 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:34,587 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador | Olá Solicito a exclusão ...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:34,677 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:34,768 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia Solicito o cancelamento das seguintes orde...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:34,854 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia Solicito a transferência de 36 ordens de s...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:34,952 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:35,032 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:35,130 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Aviso Prévio Trabalhado|...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:35,223 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Aviso Prévio Trabalhado|...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:35,322 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Aviso Prévio Trabalhado|...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:35,432 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:35,478 - INFO - Processamento concluído para 100 itens
+2025-03-26 19:12:35,482 - INFO - Processado lote 1/11
+2025-03-26 19:12:36,373 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Aviso Prévio Trabalhado|...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:36,487 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:36,568 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia Fazer o cadastro de funcionários...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:36,642 - ERROR - Erro ao anonimizar texto. Texto: 'Identificado que os equipamentos estão offline...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:36,721 - ERROR - Erro ao anonimizar texto. Texto: 'Identificado que os equipamentos consta offline...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:36,878 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Aviso Prévio Trabalhado|...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:36,995 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Aviso Prévio Trabalhado|...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:37,086 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia A localização das OS que aparece na visual...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:37,169 - ERROR - Erro ao anonimizar texto. Texto: 'Your payment is overdue | | Hey there \\ \\ There’...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:37,237 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia Fazer cadastro de funcionarios...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:37,330 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:37,424 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:37,554 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia Na edição e cadastro dos microcontroladore...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:37,737 - ERROR - Erro ao anonimizar texto. Texto: 'Boa tarde solicito por favor a liberação de acesso...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:37,914 - ERROR - Erro ao anonimizar texto. Texto: 'Your payment is overdue | | Hey there \\ \\ There’...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:38,046 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:38,136 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:38,219 - ERROR - Erro ao anonimizar texto. Texto: 'Mensagem encaminhada --------- De: *Rhoslanna Oliv...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:38,350 - ERROR - Erro ao anonimizar texto. Texto: 'Take 2 min this week to see your monitors' perform...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:38,433 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Aviso Prévio Trabalhado|...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:38,540 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:38,751 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Aviso Prévio Trabalhado|...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:38,841 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Aviso Prévio Trabalhado|...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:38,947 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Aviso Prévio Trabalhado|...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:39,037 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Aviso Prévio Trabalhado|...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:39,120 - ERROR - Erro ao anonimizar texto. Texto: 'Atendimento let's verify your email address Verify...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:39,206 - ERROR - Erro ao anonimizar texto. Texto: 'Updated Hello Atendimento This message is to confi...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:39,313 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:39,397 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:39,512 - ERROR - Erro ao anonimizar texto. Texto: 'Prezados (a) Gostaria de solicitar por gentileza o...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:39,618 - ERROR - Erro ao anonimizar texto. Texto: 'Boa tarde Segue abaixo dois vídeos sobre o Dashboa...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:39,733 - ERROR - Erro ao anonimizar texto. Texto: 'Prezados (a) Gostaria de solicitar o cancelamento ...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:39,816 - ERROR - Erro ao anonimizar texto. Texto: 'Reactivate your account by making your payment | |...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:39,923 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:40,039 - ERROR - Erro ao anonimizar texto. Texto: 'Boa tarde Solicito por gentileza o cadastro do seg...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:40,145 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Aviso Prévio Trabalhado|...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:40,232 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Aviso Prévio Trabalhado|...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:40,414 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:40,545 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia Thayla segue número de algumas ordens que ...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:40,643 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:40,798 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:40,895 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:40,997 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:41,103 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:41,204 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:41,296 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia Estava fazendo a pesquisa de uma preventiv...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:41,414 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:41,507 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:41,625 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:41,735 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Aviso Prévio Trabalhado|...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:41,812 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Aviso Prévio Trabalhado|...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:41,920 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Aviso Prévio Trabalhado|...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:42,007 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Aviso Prévio Trabalhado|...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:42,103 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:42,201 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Aviso Prévio Trabalhado|...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:42,312 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:42,419 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:42,515 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:42,619 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:42,720 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:42,835 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:42,946 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:43,048 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:43,164 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Aviso Prévio Trabalhado|...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:43,259 - ERROR - Erro ao anonimizar texto. Texto: 'Boa tarde! Solicito a importação dos dados para o ...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:43,371 - ERROR - Erro ao anonimizar texto. Texto: 'Identificado que os aparelhos da marca LG k20 K40 ...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:43,498 - ERROR - Erro ao anonimizar texto. Texto: 'Boa tarde! Solicito por gentileza a criação de doi...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:43,599 - ERROR - Erro ao anonimizar texto. Texto: 'Boa tarde Cadastra esse usuário por favor. Nome: J...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:43,703 - ERROR - Erro ao anonimizar texto. Texto: 'Olá pessoal! Hoje consegui parar para levantar alg...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:43,824 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:43,927 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:44,001 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia Fazer o cadastro dos funcionários no point...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:44,089 - ERROR - Erro ao anonimizar texto. Texto: 'Prezados Solicito o cadastro de fiscal no sistema ...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:44,177 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia gostaria de cancelar as seguintes preventi...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:44,324 - ERROR - Erro ao anonimizar texto. Texto: 'Boa noite Por gentileza alterar a mensagem de erro...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:44,420 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:44,526 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Aviso Prévio Trabalhado|...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:44,611 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Aviso Prévio Trabalhado|...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:44,699 - ERROR - Erro ao anonimizar texto. Texto: 'Boa tarde O novo mapa não está abrindo favor verif...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:44,796 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:44,925 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia Venho por meio deste relatar *problema* qu...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:45,034 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia Devido ao bug no sistema da POINT SERVICE ...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:45,316 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia Foram identificadas divergências entre o c...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:45,412 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:45,517 - ERROR - Erro ao anonimizar texto. Texto: 'Solicitação de Admissão - CLT| Favor efetuar o cad...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:45,621 - ERROR - Erro ao anonimizar texto. Texto: 'Solicitação de Admissão - CLT| Favor efetuar o cad...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:45,732 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia venho relatar que desde sexta feira 18 o a...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:45,827 - ERROR - Erro ao anonimizar texto. Texto: 'Boa tarde Solicito a inativação dos colaboradores ...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:45,873 - INFO - Processamento concluído para 100 itens
+2025-03-26 19:12:45,876 - INFO - Processado lote 2/11
+2025-03-26 19:12:46,246 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia Solicito por gentileza o cadastro dos cola...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:46,331 - ERROR - Erro ao anonimizar texto. Texto: 'Your payment is overdue | | Hey atendimentoito1 \\...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:46,512 - ERROR - Erro ao anonimizar texto. Texto: 'Solicito criação de contas no Point Service bem co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:46,673 - ERROR - Erro ao anonimizar texto. Texto: 'Solicito criação de contas no Point Service bem co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:46,774 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia! Identificamos mais um bug no Point Servic...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:46,930 - ERROR - Erro ao anonimizar texto. Texto: 'Boa tarde Solicito criação de contas no Point Serv...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:47,056 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia Solicito criação de *novo contrato* no sis...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:47,206 - ERROR - Erro ao anonimizar texto. Texto: 'Boa tarde Solicito criação de contas no Point Serv...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:47,313 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia Solicito criação de *novo contrato* no sis...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:47,405 - ERROR - Erro ao anonimizar texto. Texto: 'Boa tarde Inativa por favor os colaboradores abaix...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:47,552 - ERROR - Erro ao anonimizar texto. Texto: 'Boa tarde! Identificamos mais um bug no Point Serv...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:47,661 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:47,770 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia Solicito criação de conta no Point Service...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:47,887 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia Solicito criação de conta no Point Service...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:48,005 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia Tentei utilizar esse filtro para pesquisar...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:48,118 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia Cadastra por gentileza o usuário abaixo no...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:48,559 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia pessoal tudo bem? [ @Atendimento|mailto:at...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:48,646 - ERROR - Erro ao anonimizar texto. Texto: 'Your payment is overdue | | Hey atendimentoito1 \\...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:48,721 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia Não estou conseguindo cadastra cracha no s...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:48,869 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia! A todos . Referente as O.S.S : 30/2024 E ...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:48,964 - ERROR - Erro ao anonimizar texto. Texto: 'Prezados (a) Gostaria de solicitar uma verificação...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:49,092 - ERROR - Erro ao anonimizar texto. Texto: 'Solicito por gentileza a criação de um login de ac...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:49,255 - ERROR - Erro ao anonimizar texto. Texto: 'Solicitação de Admissão - CLT| Olá Segue ASO do no...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:49,401 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Aviso Prévio Trabalhado|...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:49,524 - ERROR - Erro ao anonimizar texto. Texto: 'Boa tarde Solicito a atualização das permissões do...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:49,603 - ERROR - Erro ao anonimizar texto. Texto: 'Identificado que os equipamentos estão offline...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:49,703 - ERROR - Erro ao anonimizar texto. Texto: 'Identificado que a antena está fora faz 4 dias...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:49,832 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:49,952 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:50,061 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia Gostaria de solicitar o seguinte cadastro ...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:50,184 - ERROR - Erro ao anonimizar texto. Texto: 'Solicitação de Admissão - CLT| Favor efetuar o cad...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:50,284 - ERROR - Erro ao anonimizar texto. Texto: 'Boa tarde A consulta de crachás ou melhor disposit...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:50,404 - ERROR - Erro ao anonimizar texto. Texto: 'Boa tarde Gostaria de validar o funcionamento do r...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:50,506 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:50,610 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:50,705 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Aviso Prévio Trabalhado|...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:50,831 - ERROR - Erro ao anonimizar texto. Texto: 'Solicitação de Admissão - CLT| Favor efetuar o cad...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:50,946 - ERROR - Erro ao anonimizar texto. Texto: 'Solicitação de Admissão - CLT| Favor efetuar o cad...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:51,072 - ERROR - Erro ao anonimizar texto. Texto: 'Solicitação de Admissão - CLT| Favor efetuar o cad...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:51,183 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:51,283 - ERROR - Erro ao anonimizar texto. Texto: 'Teste !image002.png|thumbnail![ * *Adeilton Silva*...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:51,367 - ERROR - Erro ao anonimizar texto. Texto: 'teste...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:51,447 - ERROR - Erro ao anonimizar texto. Texto: 'teste...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:51,543 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:51,628 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia solicito o cancelamento de 288 preventivas...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:51,733 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:51,840 - ERROR - Erro ao anonimizar texto. Texto: 'Solicito por gentileza o cancelamento das ordens a...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:51,970 - ERROR - Erro ao anonimizar texto. Texto: 'Boa tarde Solicito criação de conta no Point Servi...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:52,080 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia Solicito por gentileza o cancelamento da o...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:52,189 - ERROR - Erro ao anonimizar texto. Texto: 'Solicito por gentileza o cancelamento das ordens a...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:52,286 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:52,569 - ERROR - Erro ao anonimizar texto. Texto: 'Solicitação de Admissão - CLT| Favor efetuar o cad...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:52,665 - ERROR - Erro ao anonimizar texto. Texto: 'Nenhuma descrição...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:52,765 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Aviso Prévio Trabalhado|...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:52,837 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia Fazer cadastro dos usuários...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:52,949 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia Solicito criação de conta no Point Service...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:53,033 - ERROR - Erro ao anonimizar texto. Texto: 'image002.png|thumbnail! !image001.png|thumbnail!...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:53,214 - ERROR - Erro ao anonimizar texto. Texto: 'Olá Rubsney bom dia! Gostaria de solicitar a alter...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:53,316 - ERROR - Erro ao anonimizar texto. Texto: 'Nome completo: Andre Rocha dos Santos E-mail: andr...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:53,575 - ERROR - Erro ao anonimizar texto. Texto: 'Prezados Poderiam dar uma atenção especial a este ...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:53,665 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia O point service não mostra os usuarios !im...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:53,749 - ERROR - Erro ao anonimizar texto. Texto: 'Boa Tarde Fazer o cadastro de funcionarios no poin...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:53,839 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:53,911 - ERROR - Erro ao anonimizar texto. Texto: 'Equipamentos offlin...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:54,093 - ERROR - Erro ao anonimizar texto. Texto: 'Solicitação de Admissão - CLT| Favor efetuar o cad...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:54,183 - ERROR - Erro ao anonimizar texto. Texto: 'Equipamentos offline...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:54,269 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Aviso Prévio Trabalhado|...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:54,356 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Aviso Prévio Trabalhado|...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:54,452 - ERROR - Erro ao anonimizar texto. Texto: 'Boa tarde gostaria de incluir os novos cobradores ...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:54,542 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:54,651 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:54,754 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:54,833 - ERROR - Erro ao anonimizar texto. Texto: 'Nenhuma descrição...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:54,954 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Aviso Prévio Trabalhado|...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:55,092 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:55,216 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Aviso Prévio Trabalhado|...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:55,332 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Aviso Prévio Trabalhado|...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:55,462 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Aviso Prévio Trabalhado|...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:55,581 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia! Solicito a inclusão de Hospital (inloco) ...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:55,673 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:55,779 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:55,890 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:55,987 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:56,062 - ERROR - Erro ao anonimizar texto. Texto: 'Identificado que os equipamentos estão offline...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:56,134 - ERROR - Erro ao anonimizar texto. Texto: 'Identificado que os equipamentos estão offline...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:56,240 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:56,332 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:56,414 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia tudo bem ? Solicito liberação de acesso no...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:56,523 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Aviso Prévio Trabalhado|...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:56,647 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:56,762 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:56,869 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:56,972 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:57,086 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:57,209 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:57,320 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:57,480 - ERROR - Erro ao anonimizar texto. Texto: 'Boa tarde. Gostaria de solicitar o cadastro das se...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:57,626 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:57,719 - ERROR - Erro ao anonimizar texto. Texto: 'Olá Conforme imagem abaixo cada contrato tem vária...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:57,811 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Aviso Prévio Trabalhado|...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:57,856 - INFO - Processamento concluído para 100 itens
+2025-03-26 19:12:57,859 - INFO - Processado lote 3/11
+2025-03-26 19:12:58,233 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia Solicito por gentileza o retorno da ordem ...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:58,314 - ERROR - Erro ao anonimizar texto. Texto: 'Identificado que os equipamentos estão offline...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:58,388 - ERROR - Erro ao anonimizar texto. Texto: 'Identificado que os equipamentos estão offline...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:58,485 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia Solicito criação de conta no Point Service...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:58,580 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia Gostaria de solicitar o seguinte cadastro ...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:58,700 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia gostaria de cancelar a preventiva 1204147/...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:58,796 - ERROR - Erro ao anonimizar texto. Texto: 'Identificado que estão offline....'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:58,892 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:59,008 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia Solicito o cadastro do novo fiscal do Núcl...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:59,128 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia! Prezada Luciana Gostaria de solicitar o c...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:59,224 - ERROR - Erro ao anonimizar texto. Texto: 'Prezados Gostaria de informar sobre um problema qu...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:59,321 - ERROR - Erro ao anonimizar texto. Texto: 'Francisca Cavalcante Neta 410.143.671-15 E-mail: [...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:59,441 - ERROR - Erro ao anonimizar texto. Texto: 'Solicitação de Admissão - CLT| Favor efetuar o cad...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:59,582 - ERROR - Erro ao anonimizar texto. Texto: 'Solicitação de Admissão - CLT| Favor efetuar o cad...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:59,675 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia Solicito o cancelamento das ordens abaixo ...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:59,748 - ERROR - Erro ao anonimizar texto. Texto: 'Identificado que os equipamentos estão offline...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:59,827 - ERROR - Erro ao anonimizar texto. Texto: 'Identificado que os equipamentos estão offline...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:12:59,945 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia Solicito por gentileza o cadastro do segui...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:00,086 - ERROR - Erro ao anonimizar texto. Texto: 'Boa tarde Cadastra por favor o novo funcionário Ed...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:00,204 - ERROR - Erro ao anonimizar texto. Texto: 'Nenhuma descrição...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:00,321 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:00,411 - ERROR - Erro ao anonimizar texto. Texto: 'Antena está offline faz tempo...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:00,554 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:00,712 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:00,835 - ERROR - Erro ao anonimizar texto. Texto: 'Identificado que os equipamentos consta offline...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:00,981 - ERROR - Erro ao anonimizar texto. Texto: 'Boa tarde Me chamo Silvano Mota da Paz trabalho no...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:01,155 - ERROR - Erro ao anonimizar texto. Texto: 'Solicitação de Admissão - CLT| Favor efetuar o cad...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:01,328 - ERROR - Erro ao anonimizar texto. Texto: 'Solicitação de Admissão - CLT| Favor efetuar o cad...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:01,528 - ERROR - Erro ao anonimizar texto. Texto: 'Solicitação de Admissão - CLT| Favor efetuar o cad...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:01,667 - ERROR - Erro ao anonimizar texto. Texto: 'Solicitação de Admissão - CLT| Favor efetuar o cad...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:01,810 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:01,931 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:02,117 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia Precisamos com urgência fazer a edição de ...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:02,491 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia Solicito por gentileza o cancelamento dess...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:02,576 - ERROR - Erro ao anonimizar texto. Texto: 'Boa tarde Solicito por gentileza o cadastro no Poi...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:02,702 - ERROR - Erro ao anonimizar texto. Texto: 'Solicitação de Admissão - CLT| Favor efetuar o cad...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:02,774 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia Fazer cadastro de novos funcionarios. obri...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:02,861 - ERROR - Erro ao anonimizar texto. Texto: 'Solicito criação de Login para abertura de OS nome...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:02,959 - ERROR - Erro ao anonimizar texto. Texto: 'Boa tarde solicito o cancelamento das seguintes pr...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:03,050 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:03,134 - ERROR - Erro ao anonimizar texto. Texto: 'Nenhuma descrição...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:03,282 - ERROR - Erro ao anonimizar texto. Texto: 'Boa tarde sou Margarete gestora da USF Vila Rica d...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:03,352 - ERROR - Erro ao anonimizar texto. Texto: 'Nenhuma descrição...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:03,511 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia Estou tentando realizar o cadastro de um a...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:03,616 - ERROR - Erro ao anonimizar texto. Texto: 'Nenhuma descrição...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:03,775 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia Solicito mudança nos campos de assinaturas...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:03,920 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:04,013 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:04,103 - ERROR - Erro ao anonimizar texto. Texto: 'Boa tarde Conforme solicitado estou enviando dados...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:04,241 - ERROR - Erro ao anonimizar texto. Texto: 'Aline Cristine Tavares de Melo CPF 814.086.411-00 ...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:04,368 - ERROR - Erro ao anonimizar texto. Texto: 'Nenhuma descrição...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:04,478 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Aviso Prévio Trabalhado|...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:04,554 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Aviso Prévio Trabalhado|...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:04,632 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Aviso Prévio Trabalhado|...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:04,722 - ERROR - Erro ao anonimizar texto. Texto: 'Boa tarde Solicito o cadastro da colaboradora abai...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:04,871 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:04,985 - ERROR - Erro ao anonimizar texto. Texto: 'Identificado que os equipamentos estão offline...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:05,113 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:05,202 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:05,273 - ERROR - Erro ao anonimizar texto. Texto: 'Identificado que o switch 0856 está offline...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:05,400 - ERROR - Erro ao anonimizar texto. Texto: 'Solicitação de Admissão - CLT| Favor efetuar o cad...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:05,490 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia Verifiquei que desde ontem a tela gerencia...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:05,684 - ERROR - Erro ao anonimizar texto. Texto: 'Solicitação de Admissão - CLT| Favor efetuar o cad...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:05,792 - ERROR - Erro ao anonimizar texto. Texto: 'Boa tarde. Venho informar sobre problema que esta ...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:05,877 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:05,998 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:06,078 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Aviso Prévio Trabalhado|...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:06,187 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:06,274 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:06,372 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:06,489 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:06,562 - ERROR - Erro ao anonimizar texto. Texto: 'Identificado que os equipamentos estão offline....'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:06,673 - ERROR - Erro ao anonimizar texto. Texto: 'Identificado que a antena está offline...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:06,782 - ERROR - Erro ao anonimizar texto. Texto: 'Identificado que os equipamentos estão offline....'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:06,944 - ERROR - Erro ao anonimizar texto. Texto: 'Boa tarde estou tentando cadastrar a seguinte unid...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:07,060 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:07,193 - ERROR - Erro ao anonimizar texto. Texto: 'Prezados Conforme informado previamente via WhatsA...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:07,369 - ERROR - Erro ao anonimizar texto. Texto: 'Boa tarde Solicito atribuições de engenheiro opera...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:07,458 - ERROR - Erro ao anonimizar texto. Texto: 'Identificado que os colaboradores em Palmas não es...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:07,618 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:07,785 - ERROR - Erro ao anonimizar texto. Texto: 'Bom Dia Solicito cadastro do Gestor do Centro de D...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:07,878 - ERROR - Erro ao anonimizar texto. Texto: 'Nenhuma descrição...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:07,956 - ERROR - Erro ao anonimizar texto. Texto: 'Nenhuma descrição...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:08,038 - ERROR - Erro ao anonimizar texto. Texto: 'Nenhuma descrição...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:08,245 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:08,610 - ERROR - Erro ao anonimizar texto. Texto: 'Solicitação de Admissão - CLT| Favor efetuar o cad...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:08,832 - ERROR - Erro ao anonimizar texto. Texto: 'Solicitação de Admissão - CLT| Olá Segue Termo de ...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:08,998 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia Solicito por gentileza o cancelamento dess...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:09,245 - ERROR - Erro ao anonimizar texto. Texto: 'Solicitação de Admissão - CLT| Favor efetuar o cad...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:09,364 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:09,472 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:09,573 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:09,691 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:09,807 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:09,911 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:10,024 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:10,143 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:10,260 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Aviso Prévio Trabalhado|...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:10,389 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:10,437 - INFO - Processamento concluído para 100 itens
+2025-03-26 19:13:10,438 - INFO - Processado lote 4/11
+2025-03-26 19:13:10,698 - ERROR - Erro ao anonimizar texto. Texto: 'Boa tarde solicito a mudança do seguinte usuário p...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:10,825 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:10,929 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:11,040 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:11,138 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:11,245 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:11,352 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:11,449 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:11,542 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:11,647 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:11,761 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:11,864 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:11,965 - ERROR - Erro ao anonimizar texto. Texto: 'Boa tarde Solicito o cancelamento das ordens lista...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:12,044 - ERROR - Erro ao anonimizar texto. Texto: 'Já falei com a Nathally mas ela pediu para abrir e...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:12,118 - ERROR - Erro ao anonimizar texto. Texto: 'Boa tarde...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:12,201 - ERROR - Erro ao anonimizar texto. Texto: 'Favor verificar mas não consigo acessar a tela de ...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:12,316 - ERROR - Erro ao anonimizar texto. Texto: 'Olá Esses 3 usuários abaixo estão online e localiz...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:12,452 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia Verifiquei que alguns crachás em Gurupi es...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:12,520 - ERROR - Erro ao anonimizar texto. Texto: 'Nenhuma descrição...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:12,632 - ERROR - Erro ao anonimizar texto. Texto: 'Boa tarde Estou em Brasília e hoje me foi feita a ...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:12,735 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:12,808 - ERROR - Erro ao anonimizar texto. Texto: 'Nenhuma descrição...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:12,884 - ERROR - Erro ao anonimizar texto. Texto: 'Nenhuma descrição...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:12,970 - ERROR - Erro ao anonimizar texto. Texto: 'Boa tarde! Solicito a permissão de acesso como usu...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:13,119 - ERROR - Erro ao anonimizar texto. Texto: 'Solicitação de Admissão - CLT| Favor efetuar o cad...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:13,222 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia! Iremos implementar 4 anexos em Goiânia-GO...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:13,343 - ERROR - Erro ao anonimizar texto. Texto: 'Solicitação de Admissão - CLT| Favor efetuar o cad...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:13,453 - ERROR - Erro ao anonimizar texto. Texto: 'Solicitação de Admissão - CLT| Favor efetuar o cad...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:13,552 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:13,684 - ERROR - Erro ao anonimizar texto. Texto: 'Boa tarde! Solicitamos acesso no sistema Point Ser...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:13,812 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:13,890 - ERROR - Erro ao anonimizar texto. Texto: 'Nenhuma descrição...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:14,186 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia Iara tudo bem?! * Acesso concedido a pasta...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:15,661 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia Tem alguns usuários que estão sendo regist...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:15,826 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia Em Brasília as MCs que estão instaladas es...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:15,987 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:16,077 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia Fazer cadastro dos usuários. Agradeço...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:16,152 - ERROR - Erro ao anonimizar texto. Texto: 'Nenhuma descrição...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:16,349 - ERROR - Erro ao anonimizar texto. Texto: 'Boa Tarde Realizar cadastro de funcionários. Agrad...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:16,441 - ERROR - Erro ao anonimizar texto. Texto: 'Identificado que os equipamentos estão offline....'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:16,636 - ERROR - Erro ao anonimizar texto. Texto: 'Solicitação de Admissão - CLT| Favor efetuar o cad...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:16,800 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia Diogenes Hoje pela manhã foi identificado ...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:16,881 - ERROR - Erro ao anonimizar texto. Texto: 'Nenhuma descrição...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:16,968 - ERROR - Erro ao anonimizar texto. Texto: 'Identificado que os equipamentos estão offline...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:17,071 - ERROR - Erro ao anonimizar texto. Texto: 'Identificado que o equipamento está offline...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:17,170 - ERROR - Erro ao anonimizar texto. Texto: 'Nenhuma descrição...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:17,244 - ERROR - Erro ao anonimizar texto. Texto: 'Nenhuma descrição...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:17,355 - ERROR - Erro ao anonimizar texto. Texto: 'Na parte do ativo não sai da pagina 1 de 20 e ao c...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:17,443 - ERROR - Erro ao anonimizar texto. Texto: 'Equipamentos estão offline...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:17,551 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:17,645 - ERROR - Erro ao anonimizar texto. Texto: 'Nenhuma descrição...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:17,722 - ERROR - Erro ao anonimizar texto. Texto: 'Nenhuma descrição...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:17,867 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:17,976 - ERROR - Erro ao anonimizar texto. Texto: 'Nenhuma descrição...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:18,126 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:18,261 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:18,353 - ERROR - Erro ao anonimizar texto. Texto: 'Identificado que os equipamentos estão offline....'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:18,483 - ERROR - Erro ao anonimizar texto. Texto: 'Prezado(a) Somos do Centro de Saúde Jardim Aritana...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:18,565 - ERROR - Erro ao anonimizar texto. Texto: 'Nenhuma descrição...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:18,672 - ERROR - Erro ao anonimizar texto. Texto: 'Ajustes na tela de *ACOMPANHAMENTO ESTATÍSTICO DE ...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:18,962 - ERROR - Erro ao anonimizar texto. Texto: 'Boa tarde Segue para deixar anotado para Agosto de...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:19,055 - ERROR - Erro ao anonimizar texto. Texto: 'Identificado que os equipamentos estão offline....'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:19,159 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:19,240 - ERROR - Erro ao anonimizar texto. Texto: 'Nenhuma descrição...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:19,396 - ERROR - Erro ao anonimizar texto. Texto: 'Boa tarde Solicito com certa urgência auxílio para...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:19,530 - ERROR - Erro ao anonimizar texto. Texto: 'Boa tarde Hoje ao lança as ordens de serviço notei...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:19,655 - ERROR - Erro ao anonimizar texto. Texto: 'Prezados (a) Após os ajustes no lançamento de O´s ...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:19,844 - ERROR - Erro ao anonimizar texto. Texto: 'Solicitação de Admissão - CLT| Favor efetuar o cad...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:20,034 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:20,123 - ERROR - Erro ao anonimizar texto. Texto: 'Nenhuma descrição...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:20,247 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:20,403 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:20,547 - ERROR - Erro ao anonimizar texto. Texto: 'De:* Laryssa Marinho *Enviado:* terça-feira 15 de ...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:20,682 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:20,804 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:20,946 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:21,065 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:21,203 - ERROR - Erro ao anonimizar texto. Texto: 'Boa Tarde me chamo Luiz César de Morais Pinto CPF:...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:21,329 - ERROR - Erro ao anonimizar texto. Texto: 'Boa tarde Solicito que seja criado o seguinte usuá...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:21,452 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:21,563 - ERROR - Erro ao anonimizar texto. Texto: 'Boa Tarde Caros colegas. O sistema hoje está com u...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:21,633 - ERROR - Erro ao anonimizar texto. Texto: 'Nenhuma descrição...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:21,760 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:21,855 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:21,955 - ERROR - Erro ao anonimizar texto. Texto: 'Boa tarde ! A todos Estou tentando lançar *umas co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:22,046 - ERROR - Erro ao anonimizar texto. Texto: 'Boa tarde! Identificamos mais um bug no Point Serv...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:22,132 - ERROR - Erro ao anonimizar texto. Texto: 'Identificado que os equipamentos estão offline...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:22,223 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia conforme vídeo ao tentar lançar as correti...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:22,299 - ERROR - Erro ao anonimizar texto. Texto: 'Identificado que a antena está offline...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:22,378 - ERROR - Erro ao anonimizar texto. Texto: 'Identificado que os equipamentos estão offline...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:22,464 - ERROR - Erro ao anonimizar texto. Texto: 'adf{"type":"expand""content":[{"type":"paragraph""...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:22,562 - ERROR - Erro ao anonimizar texto. Texto: 'Nenhuma descrição...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:22,636 - ERROR - Erro ao anonimizar texto. Texto: 'Nenhuma descrição...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:22,742 - ERROR - Erro ao anonimizar texto. Texto: 'Zeily da Silva Caetano Alves Email :zeilycaetano@g...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:22,871 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:22,971 - ERROR - Erro ao anonimizar texto. Texto: 'Caps girassol Vanessa Soares Magela CPF - 98451650...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:23,093 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia Estou precisando da liberação do PointServ...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:23,218 - ERROR - Erro ao anonimizar texto. Texto: 'Solicitação de Admissão - CLT| Favor efetuar o cad...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:23,303 - ERROR - Erro ao anonimizar texto. Texto: 'Identificado que o switch 1274 está offline...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:23,352 - INFO - Processamento concluído para 100 itens
+2025-03-26 19:13:23,356 - INFO - Processado lote 5/11
+2025-03-26 19:13:23,627 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:23,696 - ERROR - Erro ao anonimizar texto. Texto: 'Nenhuma descrição...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:23,800 - ERROR - Erro ao anonimizar texto. Texto: 'Segue os dados para que seja dado o acesso ao sist...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:23,894 - ERROR - Erro ao anonimizar texto. Texto: 'No monitoramento do mapa está indicando 4 usuários...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:23,963 - ERROR - Erro ao anonimizar texto. Texto: 'Nenhuma descrição...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:24,061 - ERROR - Erro ao anonimizar texto. Texto: 'TATIANE DE SOUSA SILVA 00587339144 1023420 UNIDADE...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:24,188 - ERROR - Erro ao anonimizar texto. Texto: 'Boa tarde gostaria de solicitar o cancelamento das...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:24,589 - ERROR - Erro ao anonimizar texto. Texto: 'Boa tarde Por causa do erro que aparece ao lançar ...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:24,680 - ERROR - Erro ao anonimizar texto. Texto: 'Sistema não está deixando alterar a senha pré defi...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:24,776 - ERROR - Erro ao anonimizar texto. Texto: 'Venho por meio deste a informar que o sistema do p...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:24,861 - ERROR - Erro ao anonimizar texto. Texto: 'Identificado que os equipamentos estão offline...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:24,955 - ERROR - Erro ao anonimizar texto. Texto: 'Ola bom dia. Sou gestora da unidade de Saúde da fa...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:25,070 - ERROR - Erro ao anonimizar texto. Texto: 'Segue novamente d ados dos servidores administrati...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:25,163 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia! Segue em anexo planilha com colaboradores...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:25,238 - ERROR - Erro ao anonimizar texto. Texto: 'Nenhuma descrição...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:25,343 - ERROR - Erro ao anonimizar texto. Texto: 'Nenhuma descrição...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:25,463 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia venho por meio deste solicitar acréscimo d...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:25,623 - ERROR - Erro ao anonimizar texto. Texto: 'Boa tarde Solicito correção da impressão do orçame...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:25,705 - ERROR - Erro ao anonimizar texto. Texto: 'Nenhuma descrição...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:25,806 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia Solicito a criação de novo formulário para...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:25,906 - ERROR - Erro ao anonimizar texto. Texto: 'Um usuário tentou acessar uma funcionalidade que n...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:25,985 - ERROR - Erro ao anonimizar texto. Texto: 'Nenhuma descrição...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:26,082 - ERROR - Erro ao anonimizar texto. Texto: 'boa tarde Solicito a atualização no sistema do col...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:26,210 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:26,328 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:26,438 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia conforme vídeo as preventivas estão demora...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:26,551 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia mesmo com inúmeras tentativas a preventiva...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:26,639 - ERROR - Erro ao anonimizar texto. Texto: 'Identificado que alguns equipamentos estão offline...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:26,723 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia meu acesso no site da point service está d...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:26,863 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:26,952 - ERROR - Erro ao anonimizar texto. Texto: 'Bo dia conforme vídeo colaboradores me relataram q...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:27,028 - ERROR - Erro ao anonimizar texto. Texto: 'Nenhuma descrição...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:27,120 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Aviso Prévio Trabalhado|...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:27,205 - ERROR - Erro ao anonimizar texto. Texto: 'Nenhuma descrição...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:27,317 - ERROR - Erro ao anonimizar texto. Texto: 'Nenhuma descrição...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:27,410 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:27,492 - ERROR - Erro ao anonimizar texto. Texto: 'Nenhuma descrição...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:27,586 - ERROR - Erro ao anonimizar texto. Texto: 'Segue o vídeo explicando a necessidade identificad...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:27,805 - ERROR - Erro ao anonimizar texto. Texto: 'Boa tarde! Identificamos mais um bug no Point Serv...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:28,006 - ERROR - Erro ao anonimizar texto. Texto: 'Boa tarde prezados Segue lista de técnicos para li...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:28,091 - ERROR - Erro ao anonimizar texto. Texto: 'Identificado que a antena AP 0794 está offline...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:28,176 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:28,261 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:28,352 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:28,450 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:28,539 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:28,623 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:28,714 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:28,804 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:28,897 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:28,980 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia Tentei fazer uma alteração no nome de um e...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:29,056 - ERROR - Erro ao anonimizar texto. Texto: 'Olá bom dia! por favor verificar o app do CAPS IPE...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:29,125 - ERROR - Erro ao anonimizar texto. Texto: 'Identificado que os equipamentos estão offline...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:29,197 - ERROR - Erro ao anonimizar texto. Texto: 'boa tarde Segue em anexo os usuários a serem cadas...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:29,282 - ERROR - Erro ao anonimizar texto. Texto: 'De:* Mirian Neves Pinheiro <adm.dianopolis.to@port...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:29,365 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia Solicito cadastro dos serviços da planilha...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:29,436 - ERROR - Erro ao anonimizar texto. Texto: 'Identificado que os equipamentos estão offline...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:29,506 - ERROR - Erro ao anonimizar texto. Texto: 'Identificado que os equipamentos estão offline...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:29,580 - ERROR - Erro ao anonimizar texto. Texto: 'Erro ao editar um usuário tentando alterar o seu c...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:29,648 - ERROR - Erro ao anonimizar texto. Texto: 'Slide1.PNG|thumbnail!...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:29,730 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia Fazer Cadastro dos usuários em anexo....'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:29,817 - ERROR - Erro ao anonimizar texto. Texto: 'Possibilitar ao usuário dar o "*Enter*" no campo *...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:29,920 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:30,014 - ERROR - Erro ao anonimizar texto. Texto: 'Boa tarde Gostaria de informar que antena de geolo...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:30,130 - ERROR - Erro ao anonimizar texto. Texto: 'Boa tarde Solicito criação de contas no Point Serv...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:30,228 - ERROR - Erro ao anonimizar texto. Texto: 'UPA Dr. Paulo Garcia Chácara do Governador* Érika ...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:30,345 - ERROR - Erro ao anonimizar texto. Texto: 'Prezados Estou enfrentando um erro no sistema ao t...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:30,412 - ERROR - Erro ao anonimizar texto. Texto: 'Boa Tarde Realizar cadastro do funcionário....'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:30,478 - ERROR - Erro ao anonimizar texto. Texto: 'Identificado que os equipamentos estão offline....'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:30,552 - ERROR - Erro ao anonimizar texto. Texto: 'Solicito reabertura de guias para mudança de statu...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:30,644 - ERROR - Erro ao anonimizar texto. Texto: 'Solicito senha e login de acesso ao novo sistema d...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:30,713 - ERROR - Erro ao anonimizar texto. Texto: 'Identificado que os equipamentos estão offline...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:30,807 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Aviso Prévio Trabalhado|...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:30,880 - ERROR - Erro ao anonimizar texto. Texto: 'Identificado que os equipamentos estão offline...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:30,966 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Aviso Prévio Trabalhado|...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:31,063 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Aviso Prévio Trabalhado|...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:31,183 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Aviso Prévio Trabalhado|...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:31,270 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:31,365 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia solicito acesso aos responsáveis pois será...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:31,430 - ERROR - Erro ao anonimizar texto. Texto: 'Nenhuma descrição...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:31,519 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:31,597 - ERROR - Erro ao anonimizar texto. Texto: 'bom dia WINJER JOSE CARIAS ROSALES AJUDANTE DE MAN...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:31,677 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia solicito a cópia das permissões e unidades...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:31,764 - ERROR - Erro ao anonimizar texto. Texto: 'Ao loga na conta mostra uma mensagem de erro: !ima...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:31,835 - ERROR - Erro ao anonimizar texto. Texto: 'Identificado que os equipamentos estão offine...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:31,939 - ERROR - Erro ao anonimizar texto. Texto: 'Solicitação de Admissão - CLT| Favor efetuar o cad...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:32,028 - ERROR - Erro ao anonimizar texto. Texto: 'Solicitação de Admissão - CLT| Favor efetuar o cad...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:32,120 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:32,204 - ERROR - Erro ao anonimizar texto. Texto: 'Boa Tarde Fazer o cadastro dos funcionários em ane...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:32,284 - ERROR - Erro ao anonimizar texto. Texto: 'Forwarded message --------- De: *Julianna Dias* <[...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:32,376 - ERROR - Erro ao anonimizar texto. Texto: 'Identificado que o equipamento consta offline...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:32,455 - ERROR - Erro ao anonimizar texto. Texto: 'Identificado que o equipamento consta offline...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:32,534 - ERROR - Erro ao anonimizar texto. Texto: 'Identificado que o equipamento consta offline...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:32,598 - ERROR - Erro ao anonimizar texto. Texto: 'Identificado que os equipamentos estão offline....'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:32,680 - ERROR - Erro ao anonimizar texto. Texto: 'No sistema consta que antenas está offline...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:32,784 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:32,870 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:32,957 - ERROR - Erro ao anonimizar texto. Texto: 'Segue abaixo os dados para liberação do sistema po...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:33,037 - ERROR - Erro ao anonimizar texto. Texto: 'Nenhuma descrição...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:33,122 - ERROR - Erro ao anonimizar texto. Texto: 'Nenhuma descrição...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:33,199 - INFO - Processamento concluído para 100 itens
+2025-03-26 19:13:33,209 - INFO - Processado lote 6/11
+2025-03-26 19:13:33,410 - ERROR - Erro ao anonimizar texto. Texto: 'Identificado que os equipamentos estão offline....'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:33,512 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia Diogenes Fomos informados pela ITO1 que a ...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:33,623 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia hoje pela manhã recebi relatos até o momen...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:33,724 - ERROR - Erro ao anonimizar texto. Texto: 'Antonio conforme conversamos e a pedido do cliente...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:33,808 - ERROR - Erro ao anonimizar texto. Texto: 'Identificado que a antena [AP_1_0580| está offline...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:33,914 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:34,023 - ERROR - Erro ao anonimizar texto. Texto: 'Boa tarde Para darmos andamento em nossos serviços...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:34,116 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia Por favor criar um chamado para o time de ...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:34,272 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia solicito cancelamento das seguintes preven...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:34,345 - ERROR - Erro ao anonimizar texto. Texto: 'Nenhuma descrição...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:34,427 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:34,530 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:34,611 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:34,703 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:34,777 - ERROR - Erro ao anonimizar texto. Texto: 'Nenhuma descrição...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:34,845 - ERROR - Erro ao anonimizar texto. Texto: 'Nenhuma descrição...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:34,945 - ERROR - Erro ao anonimizar texto. Texto: 'Boa tarde Venho por meio deste solicitar gentilmen...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:35,043 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia Fazer o cadastro do funcionário para que e...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:35,152 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:35,229 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia Nome: JOSÉ CARLOS BARROS PEREIRA CPF: 076....'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:35,298 - ERROR - Erro ao anonimizar texto. Texto: 'Nenhuma descrição...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:35,368 - ERROR - Erro ao anonimizar texto. Texto: 'Nenhuma descrição...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:35,440 - ERROR - Erro ao anonimizar texto. Texto: 'identificado que todos os equipamentos estão offli...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:35,546 - ERROR - Erro ao anonimizar texto. Texto: 'Prezados Solicito o cadastro de fiscal no sistema ...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:35,668 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia solicito o cancelamento das seguintes prev...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:35,756 - ERROR - Erro ao anonimizar texto. Texto: 'Boa tarde Ricart! Conforme nos falamos segue a sit...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:35,836 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:35,901 - ERROR - Erro ao anonimizar texto. Texto: 'Identificado que a antena Ap 0641 conectada no swi...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:35,962 - ERROR - Erro ao anonimizar texto. Texto: 'Nenhuma descrição...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:36,024 - ERROR - Erro ao anonimizar texto. Texto: 'Identificado que os equipamentos estão offline...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:36,083 - ERROR - Erro ao anonimizar texto. Texto: 'Nenhuma descrição...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:36,189 - ERROR - Erro ao anonimizar texto. Texto: 'Nenhuma descrição...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:36,290 - ERROR - Erro ao anonimizar texto. Texto: 'Boa Tarde Fazer cadastro de funcionário...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:36,373 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia Fazer o cadastro do colaborador abaixo: Fu...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:36,435 - ERROR - Erro ao anonimizar texto. Texto: 'Nenhuma descrição...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:36,496 - ERROR - Erro ao anonimizar texto. Texto: 'Nenhuma descrição...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:36,582 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:36,684 - ERROR - Erro ao anonimizar texto. Texto: 'Boa tarde Solicito que seja cadastrado o novo fisc...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:36,767 - ERROR - Erro ao anonimizar texto. Texto: 'Nenhuma descrição...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:36,880 - ERROR - Erro ao anonimizar texto. Texto: 'Boa tarde Solicito que seja feito o cadastro do se...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:36,970 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia solicito o cancelamento das seguintes orde...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:37,078 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia! Gostaria de registrar e abrir um chamado ...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:37,149 - ERROR - Erro ao anonimizar texto. Texto: 'Nenhuma descrição...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:37,216 - ERROR - Erro ao anonimizar texto. Texto: 'Identificado que os equipamentos estão offline....'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:37,294 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia Solicito que seja feita a mudança na permi...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:37,378 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia! Solicito que seja cadastrado o seguinte u...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:37,441 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia Fazer o cadastro dos funcionários agradeço...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:37,550 - ERROR - Erro ao anonimizar texto. Texto: 'Boa tarde Estamos enfrentando problemas críticos n...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:37,642 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:37,740 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia Gostaria de reportar um problema que estam...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:37,828 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:37,888 - ERROR - Erro ao anonimizar texto. Texto: 'Nenhuma descrição...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:37,963 - ERROR - Erro ao anonimizar texto. Texto: 'Nenhuma descrição...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:38,056 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:38,155 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:38,216 - ERROR - Erro ao anonimizar texto. Texto: 'Nenhuma descrição...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:38,280 - ERROR - Erro ao anonimizar texto. Texto: 'boa tarde segue a lista para cadastro de funcionar...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:38,343 - ERROR - Erro ao anonimizar texto. Texto: 'boa tarde fazer cadastro dos funcionarios....'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:38,427 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:38,509 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:38,591 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:38,715 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:38,943 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:39,082 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:39,166 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:39,246 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia Gostaria de verificar o seguinte usuário: ...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:39,324 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:39,390 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia Segue a lista de funcionários a serem cada...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:39,462 - ERROR - Erro ao anonimizar texto. Texto: 'Nenhuma descrição...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:39,545 - ERROR - Erro ao anonimizar texto. Texto: 'Boa tarde está ocorrendo um _bug_ no sistema hoje ...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:39,605 - ERROR - Erro ao anonimizar texto. Texto: 'Nenhuma descrição...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:39,666 - ERROR - Erro ao anonimizar texto. Texto: 'Nenhuma descrição...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:39,739 - ERROR - Erro ao anonimizar texto. Texto: 'Nenhuma descrição...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:39,797 - ERROR - Erro ao anonimizar texto. Texto: 'Nenhuma descrição...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:39,880 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:39,951 - ERROR - Erro ao anonimizar texto. Texto: 'Nenhuma descrição...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:40,008 - ERROR - Erro ao anonimizar texto. Texto: 'Nenhuma descrição...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:40,085 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:40,160 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:40,228 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:40,298 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:40,374 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:40,450 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:40,521 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:40,599 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:40,672 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:40,743 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:40,813 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:40,887 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:40,956 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:41,025 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:41,095 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:41,188 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:41,263 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:41,338 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:41,393 - ERROR - Erro ao anonimizar texto. Texto: 'Nenhuma descrição...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:41,459 - ERROR - Erro ao anonimizar texto. Texto: 'Nenhuma descrição...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:41,578 - ERROR - Erro ao anonimizar texto. Texto: 'Boa Tarde Segue o email enviado. Agradeço ---- *De...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:41,655 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:41,731 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:41,779 - INFO - Processamento concluído para 100 itens
+2025-03-26 19:13:41,781 - INFO - Processado lote 7/11
+2025-03-26 19:13:41,968 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:42,046 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:42,116 - ERROR - Erro ao anonimizar texto. Texto: 'Nenhuma descrição...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:42,187 - ERROR - Erro ao anonimizar texto. Texto: 'Nenhuma descrição...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:42,265 - ERROR - Erro ao anonimizar texto. Texto: 'p/: atendimento@ito1.com.br O nosso ERP(Software d...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:42,414 - ERROR - Erro ao anonimizar texto. Texto: 'Boa tarde Me chamo Silvano Mota da Paz trabalho no...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:42,505 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia Solicito que adicionem o seguinte usuário ...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:42,591 - ERROR - Erro ao anonimizar texto. Texto: 'Nenhuma descrição...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:42,760 - ERROR - Erro ao anonimizar texto. Texto: 'Boa tarde Prezados(as) iniciaremos uma pequena imp...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:42,846 - ERROR - Erro ao anonimizar texto. Texto: 'Slide1.PNG|thumbnail!...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:42,956 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:43,074 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:43,196 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:43,289 - ERROR - Erro ao anonimizar texto. Texto: 'Nenhuma descrição...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:43,365 - ERROR - Erro ao anonimizar texto. Texto: 'Nenhuma descrição...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:43,456 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:43,557 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:43,640 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:43,738 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:43,884 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:44,013 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:44,124 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:44,228 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:44,359 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:44,485 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:44,597 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:44,716 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:44,817 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:44,930 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:45,031 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:45,141 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:45,271 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:45,380 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:45,504 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:45,642 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:45,801 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:45,998 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:46,108 - ERROR - Erro ao anonimizar texto. Texto: 'Nenhuma descrição...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:46,203 - ERROR - Erro ao anonimizar texto. Texto: 'Nenhuma descrição...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:46,300 - ERROR - Erro ao anonimizar texto. Texto: 'Nenhuma descrição...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:46,403 - ERROR - Erro ao anonimizar texto. Texto: 'visualize essa mensagem no seu navegador Internet*...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:46,508 - ERROR - Erro ao anonimizar texto. Texto: 'Boa Tarde Fazer cadastro de novos funcionários no ...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:46,632 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:46,756 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:46,864 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:46,975 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:47,094 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:47,210 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:47,329 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:47,440 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:47,577 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:47,706 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:47,840 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:47,977 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:48,093 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:48,200 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:48,326 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:48,469 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:48,588 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia O email do usuário Robson Barrach Rodrigue...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:48,692 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia Cadastrar novos funcionários por gentileza...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:48,789 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia solicito o cancelamento da seguinte preven...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:48,930 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia! Prezados Solicito o cadastro da nova Gere...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:49,027 - ERROR - Erro ao anonimizar texto. Texto: 'Nenhuma descrição...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:49,163 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia Por gentileza liberar acesso ao sistema da...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:49,251 - ERROR - Erro ao anonimizar texto. Texto: 'Nenhuma descrição...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:49,381 - ERROR - Erro ao anonimizar texto. Texto: 'Enviado do meu iPhone Início da mensagem encaminha...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:49,509 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Aviso Prévio Trabalhado|...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:49,631 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:49,832 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:49,944 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:50,058 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:50,179 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:50,303 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:50,430 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:50,566 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:50,680 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:50,816 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:50,925 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:51,047 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:51,156 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:51,267 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:51,378 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:51,486 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Aviso Prévio Trabalhado|...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:51,701 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:51,834 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:51,973 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:52,069 - ERROR - Erro ao anonimizar texto. Texto: 'Nenhuma descrição...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:52,679 - ERROR - Erro ao anonimizar texto. Texto: 'Boa tarde Ricart. Como vai? Gostaria de saber se é...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:52,775 - ERROR - Erro ao anonimizar texto. Texto: 'Nenhuma descrição...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:52,851 - ERROR - Erro ao anonimizar texto. Texto: 'Nenhuma descrição...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:52,943 - ERROR - Erro ao anonimizar texto. Texto: 'identificado que os equipamentos estão offline...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:53,027 - ERROR - Erro ao anonimizar texto. Texto: 'Nenhuma descrição...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:53,124 - ERROR - Erro ao anonimizar texto. Texto: 'Identificado que o switch 0532 está offline...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:53,206 - ERROR - Erro ao anonimizar texto. Texto: 'Nenhuma descrição...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:53,303 - ERROR - Erro ao anonimizar texto. Texto: 'Nenhuma descrição...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:53,417 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:53,536 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:53,663 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:53,812 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:53,931 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:53,976 - INFO - Processamento concluído para 100 itens
+2025-03-26 19:13:53,990 - INFO - Processado lote 8/11
+2025-03-26 19:13:54,222 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:54,339 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:54,450 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:54,563 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:54,667 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:54,765 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:54,888 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:55,014 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Aviso Prévio Trabalhado|...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:55,131 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Aviso Prévio Trabalhado|...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:55,242 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:55,347 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:55,470 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Aviso Prévio Trabalhado|...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:55,582 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Aviso Prévio Trabalhado|...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:55,683 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia O cadastro desse colaborador está duplicad...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:55,771 - ERROR - Erro ao anonimizar texto. Texto: 'bom dia Fazer o cadastro desses funcionários. agra...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:55,874 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia Ao tentar realizar o lançamento da prevent...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:55,954 - ERROR - Erro ao anonimizar texto. Texto: 'identificado que desde de ontem o postman está com...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:56,030 - ERROR - Erro ao anonimizar texto. Texto: 'Equipamentos constam offline....'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:56,127 - ERROR - Erro ao anonimizar texto. Texto: 'Atte. ---- *De:* Planejamento *Enviado:* quarta-fe...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:56,238 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:56,351 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:56,454 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Aviso Prévio Trabalhado|...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:56,552 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Aviso Prévio Trabalhado|...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:56,646 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:56,751 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:56,840 - ERROR - Erro ao anonimizar texto. Texto: 'Nenhuma descrição...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:56,934 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia solicito o cancelamento das seguintes orde...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:57,037 - ERROR - Erro ao anonimizar texto. Texto: 'Boa Tarde Venho solicitar o bloqueio do sistema se...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:57,116 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia Segue em anexo os funcionários a ser cadas...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:57,187 - ERROR - Erro ao anonimizar texto. Texto: 'Nenhuma descrição...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:57,304 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Aviso Prévio Trabalhado|...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:57,400 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Aviso Prévio Trabalhado|...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:57,492 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:57,567 - ERROR - Erro ao anonimizar texto. Texto: 'Identificado que antena está offline...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:57,652 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:57,764 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Aviso Prévio Trabalhado|...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:57,852 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Aviso Prévio Trabalhado|...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:57,960 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:58,033 - ERROR - Erro ao anonimizar texto. Texto: 'Identificado que os equipamentos estão offline...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:58,113 - ERROR - Erro ao anonimizar texto. Texto: 'Identificado que os equipamentos estão offline....'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:58,186 - ERROR - Erro ao anonimizar texto. Texto: 'Identificado que os equipamentos estão offline....'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:58,265 - ERROR - Erro ao anonimizar texto. Texto: 'Nenhuma descrição...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:58,342 - ERROR - Erro ao anonimizar texto. Texto: 'Nenhuma descrição...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:58,417 - ERROR - Erro ao anonimizar texto. Texto: 'Testando configuração de email do Jira...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:58,485 - ERROR - Erro ao anonimizar texto. Texto: 'teste...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:58,602 - ERROR - Erro ao anonimizar texto. Texto: 'Nenhuma descrição...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:58,682 - ERROR - Erro ao anonimizar texto. Texto: 'Boa Tarde Segue em anexos os funcionários a serem ...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:58,758 - ERROR - Erro ao anonimizar texto. Texto: 'Identificado que os equipamentos estão offline...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:58,823 - ERROR - Erro ao anonimizar texto. Texto: 'Nenhuma descrição...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:58,941 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia segue mais um outro chamado aberto pelo cl...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:59,049 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia segue chamado aberto pelo cliente que não ...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:59,145 - ERROR - Erro ao anonimizar texto. Texto: 'Olá Solicito a exclusão do seguinte usuário no sis...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:59,208 - ERROR - Erro ao anonimizar texto. Texto: 'Nenhuma descrição...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:59,275 - ERROR - Erro ao anonimizar texto. Texto: 'Nenhuma descrição...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:59,349 - ERROR - Erro ao anonimizar texto. Texto: 'Nenhuma descrição...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:59,416 - ERROR - Erro ao anonimizar texto. Texto: 'Nenhuma descrição...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:59,534 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia Gostaria de informar sobre um problema que...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:59,640 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia Notei já tem alguns dias que após os teste...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:59,713 - ERROR - Erro ao anonimizar texto. Texto: 'Nenhuma descrição...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:59,818 - ERROR - Erro ao anonimizar texto. Texto: 'Identificado que os equipamentos estão offline. !i...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:13:59,959 - ERROR - Erro ao anonimizar texto. Texto: 'Prezados Bom Dia!! Solicito acesso ao sistema para...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:00,032 - ERROR - Erro ao anonimizar texto. Texto: 'Nenhuma descrição...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:00,166 - ERROR - Erro ao anonimizar texto. Texto: 'Boa tarde Espero que este e-mail o encontre bem. G...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:00,273 - ERROR - Erro ao anonimizar texto. Texto: 'Boa tarde vim relatar um erro já antes relatado ma...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:00,353 - ERROR - Erro ao anonimizar texto. Texto: 'and scheduled run resource usage limit reached You...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:00,433 - ERROR - Erro ao anonimizar texto. Texto: 'Nenhuma descrição...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:00,520 - ERROR - Erro ao anonimizar texto. Texto: '990 monitoring and scheduled run calls left Your t...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:00,589 - ERROR - Erro ao anonimizar texto. Texto: 'Nenhuma descrição...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:00,683 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia conforme vídeo as OS's não estão vinculand...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:00,761 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia conforme o vídeo percebi mais um erro no l...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:00,839 - ERROR - Erro ao anonimizar texto. Texto: 'Identificado que os equipamentos estão offline. !i...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:00,905 - ERROR - Erro ao anonimizar texto. Texto: 'Nenhuma descrição...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:01,013 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia conforme vídeo percebi um erro grave ao la...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:01,119 - ERROR - Erro ao anonimizar texto. Texto: 'Solicitação de Admissão - CLT| Favor efetuar o cad...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:01,236 - ERROR - Erro ao anonimizar texto. Texto: 'Solicitação de Admissão - CLT| Favor efetuar o cad...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:01,341 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:01,408 - ERROR - Erro ao anonimizar texto. Texto: 'Nenhuma descrição...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:01,470 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia Solicito o cancelamento da ordem abaixo or...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:01,556 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:01,623 - ERROR - Erro ao anonimizar texto. Texto: 'Nenhuma descrição...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:01,697 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:01,786 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:01,875 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:01,948 - ERROR - Erro ao anonimizar texto. Texto: 'Nenhuma descrição...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:02,017 - ERROR - Erro ao anonimizar texto. Texto: 'Nenhuma descrição...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:02,089 - ERROR - Erro ao anonimizar texto. Texto: 'Nenhuma descrição...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:02,157 - ERROR - Erro ao anonimizar texto. Texto: 'Nenhuma descrição...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:02,239 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:02,345 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia Solicito que seja feito o cadastro do novo...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:02,472 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:02,578 - ERROR - Erro ao anonimizar texto. Texto: 'Solicitação de Admissão - CLT| Favor efetuar o cad...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:02,640 - ERROR - Erro ao anonimizar texto. Texto: 'Identificado que os equipamentos estão offline....'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:02,844 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia Conforme informado pelo usuário Ben-Hur ex...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:02,923 - ERROR - Erro ao anonimizar texto. Texto: 'Act now to solve the issues in their early stage. ...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:03,070 - ERROR - Erro ao anonimizar texto. Texto: 'Boa tarde [@Atendimento|mailto:atendimento@ito1.co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:03,203 - ERROR - Erro ao anonimizar texto. Texto: 'Boa tarde Gostaria de abordar uma questão relevant...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:03,286 - ERROR - Erro ao anonimizar texto. Texto: 'identificado que os equipamentos estão offline....'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:03,389 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia Estamos enfrentando problemas na vinculaçã...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:03,502 - ERROR - Erro ao anonimizar texto. Texto: 'Nenhuma descrição...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:03,549 - INFO - Processamento concluído para 100 itens
+2025-03-26 19:14:03,582 - INFO - Processado lote 9/11
+2025-03-26 19:14:03,922 - ERROR - Erro ao anonimizar texto. Texto: 'Act now to solve the issues in their early stage. ...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:04,075 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia Solicito o Cadastro da seguinte colaborado...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:04,317 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia Venho por meio deste solicitar os crachás ...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:04,469 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:04,609 - ERROR - Erro ao anonimizar texto. Texto: 'Boa tarde Gostaria de relatar uma dificuldade sign...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:04,741 - ERROR - Erro ao anonimizar texto. Texto: 'Boa tarde ao arrumar um equipamento percebi 3 novo...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:04,947 - ERROR - Erro ao anonimizar texto. Texto: 'Boa tarde solicito os cancelamentos das seguintes ...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:05,036 - ERROR - Erro ao anonimizar texto. Texto: 'Identificado que os equipamentos estão offline !im...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:05,146 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia Conforme conversado com Adriano me foi sol...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:05,264 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:05,393 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia! Identificamos mais um bug no Point Servic...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:05,607 - ERROR - Erro ao anonimizar texto. Texto: 'Boa tarde [@Atendimento|mailto:atendimento@ito1.co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:05,750 - ERROR - Erro ao anonimizar texto. Texto: 'Boa tarde preciso de algumas alterações no formulá...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:05,894 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:05,986 - ERROR - Erro ao anonimizar texto. Texto: 'Automatic payment succeeded for orange-shadow-8451...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:06,139 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia! Estamos com dificuldades com relação a as...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:06,325 - ERROR - Erro ao anonimizar texto. Texto: 'Boa Tarde Gostaria de relatar algumas dificuldades...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:06,423 - ERROR - Erro ao anonimizar texto. Texto: 'Automatic payment has been declined | | Hey there ...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:06,517 - ERROR - Erro ao anonimizar texto. Texto: 'Your payment is overdue | | Hey atendimentoito1 \\...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:06,658 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia Venho por meio deste solicitar o cadastro ...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:06,948 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia Conforme conversado com o Ricart segue em ...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:07,061 - ERROR - Erro ao anonimizar texto. Texto: 'Take 2 min this week to see your monitors' perform...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:07,235 - ERROR - Erro ao anonimizar texto. Texto: 'Boa tarde! Solicito por gentileza o CANCELAMENTO d...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:07,361 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:07,460 - ERROR - Erro ao anonimizar texto. Texto: 'identificado que os equipamentos estão offline....'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:07,597 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:07,728 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:07,926 - ERROR - Erro ao anonimizar texto. Texto: 'Gostaria de informar que a fiscal está enfrentando...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:08,060 - ERROR - Erro ao anonimizar texto. Texto: 'Your payment is overdue | | Hey atendimentoito1 \\...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:08,212 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:08,329 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:08,442 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:08,545 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:08,653 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:08,740 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Aviso Prévio Trabalhado|...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:08,837 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:08,933 - ERROR - Erro ao anonimizar texto. Texto: 'Automatic payment has been declined | | Hey there ...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:09,046 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:09,211 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:09,355 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Aviso Prévio Trabalhado|...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:09,475 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Aviso Prévio Trabalhado|...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:09,633 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia Venho mais uma vez através desse e-mail ex...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:09,725 - ERROR - Erro ao anonimizar texto. Texto: '995 monitoring and scheduled run calls left Your t...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:09,832 - ERROR - Erro ao anonimizar texto. Texto: 'Identificado que uma antena está offline Ap 1177...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:09,938 - ERROR - Erro ao anonimizar texto. Texto: 'Boa tarde Gostaria de solicitar a inclusão do Anex...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:10,046 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:10,140 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:10,230 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:10,329 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:10,432 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia Solicito o cadastro no sistema da point se...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:10,548 - ERROR - Erro ao anonimizar texto. Texto: 'Boa tarde Solicitamos correção do layout de impres...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:10,655 - ERROR - Erro ao anonimizar texto. Texto: 'Boa tarde gostaria de solicitar a desvinculação da...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:10,753 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:10,841 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:11,089 - ERROR - Erro ao anonimizar texto. Texto: 'Boa tarde gostaria de solicitar o adicionamento da...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:11,375 - ERROR - Erro ao anonimizar texto. Texto: 'Check now to prevent further errors. |! <[ |Housto...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:11,471 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia Está ocorrendo um erro ao tentar realizar ...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:11,567 - ERROR - Erro ao anonimizar texto. Texto: 'Act now to solve the issues in their early stage. ...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:11,658 - ERROR - Erro ao anonimizar texto. Texto: 'Act now to solve the issues in their early stage. ...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:11,805 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia Gostaria de relatar um problema que identi...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:11,927 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Aviso Prévio Trabalhado|...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:12,051 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:12,139 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:12,254 - ERROR - Erro ao anonimizar texto. Texto: 'Boa tarde Gostaria de solicitar o cancelamento das...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:12,352 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:12,436 - ERROR - Erro ao anonimizar texto. Texto: 'Identificado que a antena AP 0885 está offline...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:12,517 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:12,643 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:12,780 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia Gostaria de pontuar uma questão que tem si...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:12,862 - ERROR - Erro ao anonimizar texto. Texto: 'Nenhuma descrição...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:12,986 - ERROR - Erro ao anonimizar texto. Texto: 'Boa tarde! Estamos com algumas dificuldades com re...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:13,160 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia Gostaria de formalizar o pedido de retirad...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:13,252 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia Estamos enfrentando dificuldades ao lançar...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:13,385 - ERROR - Erro ao anonimizar texto. Texto: 'Act now to solve the issues in their early stage. ...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:13,480 - ERROR - Erro ao anonimizar texto. Texto: 'Act now to solve the issues in their early stage. ...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:13,627 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia Solicito a inativação do cadastro do antig...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:13,797 - ERROR - Erro ao anonimizar texto. Texto: 'Boa tarde Solicitamos correção do sistema no crité...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:13,885 - ERROR - Erro ao anonimizar texto. Texto: 'Nenhuma descrição...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:13,942 - ERROR - Erro ao anonimizar texto. Texto: 'Nenhuma descrição...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:14,004 - ERROR - Erro ao anonimizar texto. Texto: 'Nenhuma descrição...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:14,074 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia solicito o cancelamento das seguintes prev...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:14,172 - ERROR - Erro ao anonimizar texto. Texto: 'Bom Dia solicito recuperação de senha para o login...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:14,270 - ERROR - Erro ao anonimizar texto. Texto: 'Nenhuma descrição...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:14,401 - ERROR - Erro ao anonimizar texto. Texto: 'Solicito o cadastro para os seguintes usuários cit...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:14,522 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia Solicito por gentileza a reativação do cad...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:14,589 - ERROR - Erro ao anonimizar texto. Texto: 'Nenhuma descrição...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:14,684 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:14,798 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Aviso Prévio Trabalhado|...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:14,907 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:15,022 - ERROR - Erro ao anonimizar texto. Texto: 'Nenhuma descrição...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:15,126 - ERROR - Erro ao anonimizar texto. Texto: 'Act now to solve the issues in their early stage. ...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:15,223 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:15,311 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Aviso Prévio Trabalhado|...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:15,392 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Aviso Prévio Trabalhado|...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:15,512 - ERROR - Erro ao anonimizar texto. Texto: 'Demissão de Colaborador - Indenizado/Término de Co...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:15,684 - ERROR - Erro ao anonimizar texto. Texto: 'Take 2 min this week to see your monitors' perform...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:15,831 - ERROR - Erro ao anonimizar texto. Texto: 'Bom dia conversando com o colaborador vimos que pr...'. Erro: bad escape (end of pattern) at position 0
+2025-03-26 19:14:15,872 - INFO - Processamento concluído para 100 itens
+2025-03-26 19:14:15,873 - INFO - Processado lote 10/11
+2025-03-26 19:16:37,230 - INFO - Iniciando processamento para 1000 IDs
+2025-03-26 19:16:39,828 - INFO - Modelo spaCy carregado com sucesso
+2025-03-26 19:16:51,562 - INFO - Processamento concluído para 100 itens
+2025-03-26 19:16:51,563 - INFO - Processado lote 1/11
+2025-03-26 19:16:59,034 - INFO - Processamento concluído para 100 itens
+2025-03-26 19:16:59,037 - INFO - Processado lote 2/11
+2025-03-26 19:17:07,210 - INFO - Processamento concluído para 100 itens
+2025-03-26 19:17:07,212 - INFO - Processado lote 3/11
+2025-03-26 19:17:14,835 - INFO - Processamento concluído para 100 itens
+2025-03-26 19:17:14,836 - INFO - Processado lote 4/11
+2025-03-26 19:17:22,392 - INFO - Processamento concluído para 100 itens
+2025-03-26 19:17:22,394 - INFO - Processado lote 5/11
+2025-03-26 19:17:29,909 - INFO - Processamento concluído para 100 itens
+2025-03-26 19:17:29,910 - INFO - Processado lote 6/11
+2025-03-26 19:17:37,080 - INFO - Processamento concluído para 100 itens
+2025-03-26 19:17:37,081 - INFO - Processado lote 7/11
+2025-03-26 19:17:44,565 - INFO - Processamento concluído para 100 itens
+2025-03-26 19:17:44,566 - INFO - Processado lote 8/11
+2025-03-26 19:17:51,726 - INFO - Processamento concluído para 100 itens
+2025-03-26 19:17:51,727 - INFO - Processado lote 9/11
+2025-03-26 19:18:00,341 - INFO - Processamento concluído para 100 itens
+2025-03-26 19:18:00,342 - INFO - Processado lote 10/11
