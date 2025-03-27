@@ -1223,3 +1223,180 @@
 2025-03-26 19:17:51,727 - INFO - Processado lote 9/11
 2025-03-26 19:18:00,341 - INFO - Processamento concluído para 100 itens
 2025-03-26 19:18:00,342 - INFO - Processado lote 10/11
+2025-03-26 22:31:17,063 - INFO - Iniciando processamento para 3 IDs
+2025-03-26 22:31:18,464 - ERROR - Erro no processamento: not enough values to unpack (expected 2, got 0)
+2025-03-26 22:42:28,596 - INFO - Iniciando processamento para 3 IDs
+2025-03-26 22:42:31,837 - INFO - Modelo spaCy carregado com sucesso
+2025-03-26 22:42:35,169 - ERROR - Erro processando item 13810: Performing an update on the path '_id' would modify the immutable field '_id', full error: {'index': 0, 'code': 66, 'errmsg': "Performing an update on the path '_id' would modify the immutable field '_id'"}
+2025-03-26 22:42:35,287 - ERROR - Erro processando item 13777: Performing an update on the path '_id' would modify the immutable field '_id', full error: {'index': 0, 'code': 66, 'errmsg': "Performing an update on the path '_id' would modify the immutable field '_id'"}
+2025-03-26 22:42:35,386 - ERROR - Erro processando item 13748: Performing an update on the path '_id' would modify the immutable field '_id', full error: {'index': 0, 'code': 66, 'errmsg': "Performing an update on the path '_id' would modify the immutable field '_id'"}
+2025-03-26 22:42:37,447 - INFO - Previsões recebidas para 6 chamados
+2025-03-26 22:42:37,449 - INFO - Processamento concluído para 3 itens
+2025-03-26 22:42:37,452 - ERROR - Erro no processamento: too many values to unpack (expected 2)
+2025-03-26 22:43:26,494 - INFO - Iniciando processamento para 3 IDs
+2025-03-26 22:43:28,556 - INFO - IDs enviados para o serviço de previsão. Resposta: 201
+2025-03-26 22:43:31,065 - INFO - Modelo spaCy carregado com sucesso
+2025-03-26 22:43:34,806 - ERROR - Erro processando item 13810: Performing an update on the path '_id' would modify the immutable field '_id', full error: {'index': 0, 'code': 66, 'errmsg': "Performing an update on the path '_id' would modify the immutable field '_id'"}
+2025-03-26 22:43:34,920 - ERROR - Erro processando item 13777: Performing an update on the path '_id' would modify the immutable field '_id', full error: {'index': 0, 'code': 66, 'errmsg': "Performing an update on the path '_id' would modify the immutable field '_id'"}
+2025-03-26 22:43:35,011 - ERROR - Erro processando item 13748: Performing an update on the path '_id' would modify the immutable field '_id', full error: {'index': 0, 'code': 66, 'errmsg': "Performing an update on the path '_id' would modify the immutable field '_id'"}
+2025-03-26 22:43:35,012 - INFO - Processamento concluído para 3 itens
+2025-03-26 22:43:35,013 - INFO - Processado lote 1/1
+2025-03-26 22:54:12,964 - INFO - Iniciando processamento para 3 IDs
+2025-03-26 22:54:16,121 - INFO - Modelo spaCy carregado com sucesso
+2025-03-26 22:54:18,351 - ERROR - Erro processando item 13810: Performing an update on the path '_id' would modify the immutable field '_id', full error: {'index': 0, 'code': 66, 'errmsg': "Performing an update on the path '_id' would modify the immutable field '_id'"}
+2025-03-26 22:54:18,437 - ERROR - Erro processando item 13777: Performing an update on the path '_id' would modify the immutable field '_id', full error: {'index': 0, 'code': 66, 'errmsg': "Performing an update on the path '_id' would modify the immutable field '_id'"}
+2025-03-26 22:54:18,512 - ERROR - Erro processando item 13748: Performing an update on the path '_id' would modify the immutable field '_id', full error: {'index': 0, 'code': 66, 'errmsg': "Performing an update on the path '_id' would modify the immutable field '_id'"}
+2025-03-26 22:54:18,513 - INFO - Batch processado: 3 itens
+2025-03-26 22:54:18,514 - INFO - Processado lote 1/1
+2025-03-26 22:54:18,515 - INFO - Enviando 2 chamados processados para previsão
+2025-03-26 22:54:20,557 - ERROR - Erro ao enviar para serviço de previsão: 400 Client Error: BAD REQUEST for url: http://localhost:8080/prever
+2025-03-26 22:54:55,910 - INFO - Iniciando processamento para 3 IDs
+2025-03-26 22:54:56,183 - ERROR - Erro processando item 13810: Performing an update on the path '_id' would modify the immutable field '_id', full error: {'index': 0, 'code': 66, 'errmsg': "Performing an update on the path '_id' would modify the immutable field '_id'"}
+2025-03-26 22:54:56,261 - ERROR - Erro processando item 13777: Performing an update on the path '_id' would modify the immutable field '_id', full error: {'index': 0, 'code': 66, 'errmsg': "Performing an update on the path '_id' would modify the immutable field '_id'"}
+2025-03-26 22:54:56,348 - ERROR - Erro processando item 13748: Performing an update on the path '_id' would modify the immutable field '_id', full error: {'index': 0, 'code': 66, 'errmsg': "Performing an update on the path '_id' would modify the immutable field '_id'"}
+2025-03-26 22:54:56,349 - INFO - Batch processado: 3 itens
+2025-03-26 22:54:56,349 - INFO - Processado lote 1/1
+2025-03-26 22:54:56,350 - INFO - Enviando 2 chamados processados para previsão
+2025-03-26 22:56:51,063 - INFO - Iniciando processamento para 5 IDs
+2025-03-26 22:56:51,537 - ERROR - Erro processando item 13810: Performing an update on the path '_id' would modify the immutable field '_id', full error: {'index': 0, 'code': 66, 'errmsg': "Performing an update on the path '_id' would modify the immutable field '_id'"}
+2025-03-26 22:56:51,608 - ERROR - Erro processando item 13777: Performing an update on the path '_id' would modify the immutable field '_id', full error: {'index': 0, 'code': 66, 'errmsg': "Performing an update on the path '_id' would modify the immutable field '_id'"}
+2025-03-26 22:56:51,682 - ERROR - Erro processando item 13748: Performing an update on the path '_id' would modify the immutable field '_id', full error: {'index': 0, 'code': 66, 'errmsg': "Performing an update on the path '_id' would modify the immutable field '_id'"}
+2025-03-26 22:56:51,771 - ERROR - Erro processando item 13747: Performing an update on the path '_id' would modify the immutable field '_id', full error: {'index': 0, 'code': 66, 'errmsg': "Performing an update on the path '_id' would modify the immutable field '_id'"}
+2025-03-26 22:56:51,847 - ERROR - Erro processando item 13746: Performing an update on the path '_id' would modify the immutable field '_id', full error: {'index': 0, 'code': 66, 'errmsg': "Performing an update on the path '_id' would modify the immutable field '_id'"}
+2025-03-26 22:56:51,849 - INFO - Batch processado: 5 itens
+2025-03-26 22:56:51,850 - INFO - Processado lote 1/1
+2025-03-26 22:56:51,851 - INFO - Enviando 4 chamados processados para previsão
+2025-03-26 22:58:10,600 - INFO - Iniciando processamento para 5 IDs
+2025-03-26 22:58:11,080 - ERROR - Erro processando item 13810: Performing an update on the path '_id' would modify the immutable field '_id', full error: {'index': 0, 'code': 66, 'errmsg': "Performing an update on the path '_id' would modify the immutable field '_id'"}
+2025-03-26 22:58:11,173 - ERROR - Erro processando item 13777: Performing an update on the path '_id' would modify the immutable field '_id', full error: {'index': 0, 'code': 66, 'errmsg': "Performing an update on the path '_id' would modify the immutable field '_id'"}
+2025-03-26 22:58:11,239 - ERROR - Erro processando item 13748: Performing an update on the path '_id' would modify the immutable field '_id', full error: {'index': 0, 'code': 66, 'errmsg': "Performing an update on the path '_id' would modify the immutable field '_id'"}
+2025-03-26 22:58:11,323 - ERROR - Erro processando item 13747: Performing an update on the path '_id' would modify the immutable field '_id', full error: {'index': 0, 'code': 66, 'errmsg': "Performing an update on the path '_id' would modify the immutable field '_id'"}
+2025-03-26 22:58:11,422 - ERROR - Erro processando item 13746: Performing an update on the path '_id' would modify the immutable field '_id', full error: {'index': 0, 'code': 66, 'errmsg': "Performing an update on the path '_id' would modify the immutable field '_id'"}
+2025-03-26 22:58:11,423 - INFO - Batch processado: 5 itens
+2025-03-26 22:58:11,424 - INFO - Processado lote 1/1
+2025-03-26 22:58:11,425 - INFO - Enviando 4 chamados processados para previsão
+2025-03-26 22:58:27,231 - INFO - Iniciando processamento para 5 IDs
+2025-03-26 22:58:27,692 - ERROR - Erro processando item 13810: Performing an update on the path '_id' would modify the immutable field '_id', full error: {'index': 0, 'code': 66, 'errmsg': "Performing an update on the path '_id' would modify the immutable field '_id'"}
+2025-03-26 22:58:27,779 - ERROR - Erro processando item 13777: Performing an update on the path '_id' would modify the immutable field '_id', full error: {'index': 0, 'code': 66, 'errmsg': "Performing an update on the path '_id' would modify the immutable field '_id'"}
+2025-03-26 22:58:27,869 - ERROR - Erro processando item 13748: Performing an update on the path '_id' would modify the immutable field '_id', full error: {'index': 0, 'code': 66, 'errmsg': "Performing an update on the path '_id' would modify the immutable field '_id'"}
+2025-03-26 22:58:27,998 - ERROR - Erro processando item 13747: Performing an update on the path '_id' would modify the immutable field '_id', full error: {'index': 0, 'code': 66, 'errmsg': "Performing an update on the path '_id' would modify the immutable field '_id'"}
+2025-03-26 22:58:28,093 - ERROR - Erro processando item 13746: Performing an update on the path '_id' would modify the immutable field '_id', full error: {'index': 0, 'code': 66, 'errmsg': "Performing an update on the path '_id' would modify the immutable field '_id'"}
+2025-03-26 22:58:28,095 - INFO - Batch processado: 5 itens
+2025-03-26 22:58:28,096 - INFO - Processado lote 1/1
+2025-03-26 22:58:28,097 - INFO - Enviando 4 chamados processados para previsão
+2025-03-26 23:02:01,866 - INFO - Iniciando processamento para 5 IDs
+2025-03-26 23:02:02,394 - ERROR - Erro processando item 13810: Performing an update on the path '_id' would modify the immutable field '_id', full error: {'index': 0, 'code': 66, 'errmsg': "Performing an update on the path '_id' would modify the immutable field '_id'"}
+2025-03-26 23:02:02,469 - ERROR - Erro processando item 13777: Performing an update on the path '_id' would modify the immutable field '_id', full error: {'index': 0, 'code': 66, 'errmsg': "Performing an update on the path '_id' would modify the immutable field '_id'"}
+2025-03-26 23:02:02,560 - ERROR - Erro processando item 13748: Performing an update on the path '_id' would modify the immutable field '_id', full error: {'index': 0, 'code': 66, 'errmsg': "Performing an update on the path '_id' would modify the immutable field '_id'"}
+2025-03-26 23:02:02,635 - ERROR - Erro processando item 13747: Performing an update on the path '_id' would modify the immutable field '_id', full error: {'index': 0, 'code': 66, 'errmsg': "Performing an update on the path '_id' would modify the immutable field '_id'"}
+2025-03-26 23:02:02,720 - ERROR - Erro processando item 13746: Performing an update on the path '_id' would modify the immutable field '_id', full error: {'index': 0, 'code': 66, 'errmsg': "Performing an update on the path '_id' would modify the immutable field '_id'"}
+2025-03-26 23:02:02,721 - INFO - Batch processado: 5 itens
+2025-03-26 23:02:02,722 - INFO - Processado lote 1/1
+2025-03-26 23:02:02,723 - INFO - Enviando 4 chamados processados para previsão
+2025-03-26 23:02:47,604 - INFO - Iniciando processamento para 6 IDs
+2025-03-26 23:02:48,173 - ERROR - Erro processando item 13810: Performing an update on the path '_id' would modify the immutable field '_id', full error: {'index': 0, 'code': 66, 'errmsg': "Performing an update on the path '_id' would modify the immutable field '_id'"}
+2025-03-26 23:02:48,251 - ERROR - Erro processando item 13777: Performing an update on the path '_id' would modify the immutable field '_id', full error: {'index': 0, 'code': 66, 'errmsg': "Performing an update on the path '_id' would modify the immutable field '_id'"}
+2025-03-26 23:02:48,330 - ERROR - Erro processando item 13748: Performing an update on the path '_id' would modify the immutable field '_id', full error: {'index': 0, 'code': 66, 'errmsg': "Performing an update on the path '_id' would modify the immutable field '_id'"}
+2025-03-26 23:02:48,406 - ERROR - Erro processando item 13747: Performing an update on the path '_id' would modify the immutable field '_id', full error: {'index': 0, 'code': 66, 'errmsg': "Performing an update on the path '_id' would modify the immutable field '_id'"}
+2025-03-26 23:02:48,482 - ERROR - Erro processando item 13746: Performing an update on the path '_id' would modify the immutable field '_id', full error: {'index': 0, 'code': 66, 'errmsg': "Performing an update on the path '_id' would modify the immutable field '_id'"}
+2025-03-26 23:02:48,567 - ERROR - Erro processando item 13650: Performing an update on the path '_id' would modify the immutable field '_id', full error: {'index': 0, 'code': 66, 'errmsg': "Performing an update on the path '_id' would modify the immutable field '_id'"}
+2025-03-26 23:02:48,568 - INFO - Batch processado: 6 itens
+2025-03-26 23:02:48,569 - INFO - Processado lote 1/1
+2025-03-26 23:02:48,570 - INFO - Enviando 5 chamados processados para previsão
+2025-03-26 23:05:46,532 - INFO - Iniciando processamento para 6 IDs
+2025-03-26 23:05:47,124 - ERROR - Erro processando item 13810: Performing an update on the path '_id' would modify the immutable field '_id', full error: {'index': 0, 'code': 66, 'errmsg': "Performing an update on the path '_id' would modify the immutable field '_id'"}
+2025-03-26 23:05:47,230 - ERROR - Erro processando item 13777: Performing an update on the path '_id' would modify the immutable field '_id', full error: {'index': 0, 'code': 66, 'errmsg': "Performing an update on the path '_id' would modify the immutable field '_id'"}
+2025-03-26 23:05:47,300 - ERROR - Erro processando item 13748: Performing an update on the path '_id' would modify the immutable field '_id', full error: {'index': 0, 'code': 66, 'errmsg': "Performing an update on the path '_id' would modify the immutable field '_id'"}
+2025-03-26 23:05:47,379 - ERROR - Erro processando item 13747: Performing an update on the path '_id' would modify the immutable field '_id', full error: {'index': 0, 'code': 66, 'errmsg': "Performing an update on the path '_id' would modify the immutable field '_id'"}
+2025-03-26 23:05:47,450 - ERROR - Erro processando item 13746: Performing an update on the path '_id' would modify the immutable field '_id', full error: {'index': 0, 'code': 66, 'errmsg': "Performing an update on the path '_id' would modify the immutable field '_id'"}
+2025-03-26 23:05:47,559 - ERROR - Erro processando item 13650: Performing an update on the path '_id' would modify the immutable field '_id', full error: {'index': 0, 'code': 66, 'errmsg': "Performing an update on the path '_id' would modify the immutable field '_id'"}
+2025-03-26 23:05:47,560 - INFO - Batch processado: 6 itens
+2025-03-26 23:05:47,561 - INFO - Processado lote 1/1
+2025-03-26 23:05:47,561 - INFO - Enviando 5 chamados processados para previsão
+2025-03-26 23:06:44,496 - INFO - Iniciando processamento para 6 IDs
+2025-03-26 23:06:45,085 - ERROR - Erro processando item 13810: Performing an update on the path '_id' would modify the immutable field '_id', full error: {'index': 0, 'code': 66, 'errmsg': "Performing an update on the path '_id' would modify the immutable field '_id'"}
+2025-03-26 23:06:45,170 - ERROR - Erro processando item 13777: Performing an update on the path '_id' would modify the immutable field '_id', full error: {'index': 0, 'code': 66, 'errmsg': "Performing an update on the path '_id' would modify the immutable field '_id'"}
+2025-03-26 23:06:45,265 - ERROR - Erro processando item 13748: Performing an update on the path '_id' would modify the immutable field '_id', full error: {'index': 0, 'code': 66, 'errmsg': "Performing an update on the path '_id' would modify the immutable field '_id'"}
+2025-03-26 23:06:45,364 - ERROR - Erro processando item 13747: Performing an update on the path '_id' would modify the immutable field '_id', full error: {'index': 0, 'code': 66, 'errmsg': "Performing an update on the path '_id' would modify the immutable field '_id'"}
+2025-03-26 23:06:45,445 - ERROR - Erro processando item 13746: Performing an update on the path '_id' would modify the immutable field '_id', full error: {'index': 0, 'code': 66, 'errmsg': "Performing an update on the path '_id' would modify the immutable field '_id'"}
+2025-03-26 23:06:45,537 - ERROR - Erro processando item 13650: Performing an update on the path '_id' would modify the immutable field '_id', full error: {'index': 0, 'code': 66, 'errmsg': "Performing an update on the path '_id' would modify the immutable field '_id'"}
+2025-03-26 23:06:45,538 - INFO - Batch processado: 6 itens
+2025-03-26 23:06:45,539 - INFO - Processado lote 1/1
+2025-03-26 23:06:45,540 - INFO - Enviando 5 chamados processados para previsão
+2025-03-26 23:07:21,192 - INFO - Iniciando processamento para 6 IDs
+2025-03-26 23:07:21,715 - ERROR - Erro processando item 13810: Performing an update on the path '_id' would modify the immutable field '_id', full error: {'index': 0, 'code': 66, 'errmsg': "Performing an update on the path '_id' would modify the immutable field '_id'"}
+2025-03-26 23:07:21,791 - ERROR - Erro processando item 13777: Performing an update on the path '_id' would modify the immutable field '_id', full error: {'index': 0, 'code': 66, 'errmsg': "Performing an update on the path '_id' would modify the immutable field '_id'"}
+2025-03-26 23:07:21,853 - ERROR - Erro processando item 13748: Performing an update on the path '_id' would modify the immutable field '_id', full error: {'index': 0, 'code': 66, 'errmsg': "Performing an update on the path '_id' would modify the immutable field '_id'"}
+2025-03-26 23:07:21,938 - ERROR - Erro processando item 13747: Performing an update on the path '_id' would modify the immutable field '_id', full error: {'index': 0, 'code': 66, 'errmsg': "Performing an update on the path '_id' would modify the immutable field '_id'"}
+2025-03-26 23:07:22,011 - ERROR - Erro processando item 13746: Performing an update on the path '_id' would modify the immutable field '_id', full error: {'index': 0, 'code': 66, 'errmsg': "Performing an update on the path '_id' would modify the immutable field '_id'"}
+2025-03-26 23:07:22,099 - ERROR - Erro processando item 13650: Performing an update on the path '_id' would modify the immutable field '_id', full error: {'index': 0, 'code': 66, 'errmsg': "Performing an update on the path '_id' would modify the immutable field '_id'"}
+2025-03-26 23:07:22,100 - INFO - Batch processado: 6 itens
+2025-03-26 23:07:22,101 - INFO - Processado lote 1/1
+2025-03-26 23:07:22,102 - INFO - Enviando 5 chamados processados para previsão
+2025-03-26 23:09:02,995 - INFO - Iniciando processamento para 6 IDs
+2025-03-26 23:09:08,326 - INFO - Modelo spaCy carregado com sucesso
+2025-03-26 23:09:14,118 - ERROR - Erro processando item 13810: Performing an update on the path '_id' would modify the immutable field '_id', full error: {'index': 0, 'code': 66, 'errmsg': "Performing an update on the path '_id' would modify the immutable field '_id'"}
+2025-03-26 23:09:14,244 - ERROR - Erro processando item 13777: Performing an update on the path '_id' would modify the immutable field '_id', full error: {'index': 0, 'code': 66, 'errmsg': "Performing an update on the path '_id' would modify the immutable field '_id'"}
+2025-03-26 23:09:14,371 - ERROR - Erro processando item 13748: Performing an update on the path '_id' would modify the immutable field '_id', full error: {'index': 0, 'code': 66, 'errmsg': "Performing an update on the path '_id' would modify the immutable field '_id'"}
+2025-03-26 23:09:14,540 - ERROR - Erro processando item 13747: Performing an update on the path '_id' would modify the immutable field '_id', full error: {'index': 0, 'code': 66, 'errmsg': "Performing an update on the path '_id' would modify the immutable field '_id'"}
+2025-03-26 23:09:14,747 - ERROR - Erro processando item 13746: Performing an update on the path '_id' would modify the immutable field '_id', full error: {'index': 0, 'code': 66, 'errmsg': "Performing an update on the path '_id' would modify the immutable field '_id'"}
+2025-03-26 23:09:14,918 - ERROR - Erro processando item 13650: Performing an update on the path '_id' would modify the immutable field '_id', full error: {'index': 0, 'code': 66, 'errmsg': "Performing an update on the path '_id' would modify the immutable field '_id'"}
+2025-03-26 23:09:14,921 - INFO - Batch processado: 6 itens
+2025-03-26 23:09:14,923 - INFO - Processado lote 1/1
+2025-03-26 23:09:14,925 - INFO - Enviando 5 chamados processados para previsão
+2025-03-26 23:09:19,090 - ERROR - Erro ao enviar para serviço de previsão: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:8080/prever
+2025-03-26 23:09:57,177 - INFO - Iniciando processamento para 6 IDs
+2025-03-26 23:09:57,872 - ERROR - Erro processando item 13810: Performing an update on the path '_id' would modify the immutable field '_id', full error: {'index': 0, 'code': 66, 'errmsg': "Performing an update on the path '_id' would modify the immutable field '_id'"}
+2025-03-26 23:09:57,965 - ERROR - Erro processando item 13777: Performing an update on the path '_id' would modify the immutable field '_id', full error: {'index': 0, 'code': 66, 'errmsg': "Performing an update on the path '_id' would modify the immutable field '_id'"}
+2025-03-26 23:09:58,066 - ERROR - Erro processando item 13748: Performing an update on the path '_id' would modify the immutable field '_id', full error: {'index': 0, 'code': 66, 'errmsg': "Performing an update on the path '_id' would modify the immutable field '_id'"}
+2025-03-26 23:09:58,159 - ERROR - Erro processando item 13747: Performing an update on the path '_id' would modify the immutable field '_id', full error: {'index': 0, 'code': 66, 'errmsg': "Performing an update on the path '_id' would modify the immutable field '_id'"}
+2025-03-26 23:09:58,248 - ERROR - Erro processando item 13746: Performing an update on the path '_id' would modify the immutable field '_id', full error: {'index': 0, 'code': 66, 'errmsg': "Performing an update on the path '_id' would modify the immutable field '_id'"}
+2025-03-26 23:09:58,354 - ERROR - Erro processando item 13650: Performing an update on the path '_id' would modify the immutable field '_id', full error: {'index': 0, 'code': 66, 'errmsg': "Performing an update on the path '_id' would modify the immutable field '_id'"}
+2025-03-26 23:09:58,355 - INFO - Batch processado: 6 itens
+2025-03-26 23:09:58,356 - INFO - Processado lote 1/1
+2025-03-26 23:09:58,357 - INFO - Enviando 5 chamados processados para previsão
+2025-03-26 23:10:18,888 - INFO - Iniciando processamento para 1 IDs
+2025-03-26 23:10:19,017 - ERROR - Erro processando item 13810: Performing an update on the path '_id' would modify the immutable field '_id', full error: {'index': 0, 'code': 66, 'errmsg': "Performing an update on the path '_id' would modify the immutable field '_id'"}
+2025-03-26 23:10:19,019 - INFO - Batch processado: 1 itens
+2025-03-26 23:10:19,021 - INFO - Processado lote 1/1
+2025-03-26 23:10:19,021 - INFO - Enviando 0 chamados processados para previsão
+2025-03-26 23:10:47,311 - INFO - Iniciando processamento para 6 IDs
+2025-03-26 23:10:48,352 - ERROR - Erro processando item 13810: Performing an update on the path '_id' would modify the immutable field '_id', full error: {'index': 0, 'code': 66, 'errmsg': "Performing an update on the path '_id' would modify the immutable field '_id'"}
+2025-03-26 23:10:48,495 - ERROR - Erro processando item 13777: Performing an update on the path '_id' would modify the immutable field '_id', full error: {'index': 0, 'code': 66, 'errmsg': "Performing an update on the path '_id' would modify the immutable field '_id'"}
+2025-03-26 23:10:48,622 - ERROR - Erro processando item 13748: Performing an update on the path '_id' would modify the immutable field '_id', full error: {'index': 0, 'code': 66, 'errmsg': "Performing an update on the path '_id' would modify the immutable field '_id'"}
+2025-03-26 23:10:48,764 - ERROR - Erro processando item 13747: Performing an update on the path '_id' would modify the immutable field '_id', full error: {'index': 0, 'code': 66, 'errmsg': "Performing an update on the path '_id' would modify the immutable field '_id'"}
+2025-03-26 23:10:48,881 - ERROR - Erro processando item 13746: Performing an update on the path '_id' would modify the immutable field '_id', full error: {'index': 0, 'code': 66, 'errmsg': "Performing an update on the path '_id' would modify the immutable field '_id'"}
+2025-03-26 23:10:49,012 - ERROR - Erro processando item 13650: Performing an update on the path '_id' would modify the immutable field '_id', full error: {'index': 0, 'code': 66, 'errmsg': "Performing an update on the path '_id' would modify the immutable field '_id'"}
+2025-03-26 23:10:49,017 - INFO - Batch processado: 6 itens
+2025-03-26 23:10:49,019 - INFO - Processado lote 1/1
+2025-03-26 23:10:49,020 - INFO - Enviando 5 chamados processados para previsão
+2025-03-26 23:13:34,781 - INFO - Iniciando processamento para 2 IDs
+2025-03-26 23:13:35,155 - ERROR - Erro processando item 13777: Performing an update on the path '_id' would modify the immutable field '_id', full error: {'index': 0, 'code': 66, 'errmsg': "Performing an update on the path '_id' would modify the immutable field '_id'"}
+2025-03-26 23:13:35,237 - ERROR - Erro processando item 13748: Performing an update on the path '_id' would modify the immutable field '_id', full error: {'index': 0, 'code': 66, 'errmsg': "Performing an update on the path '_id' would modify the immutable field '_id'"}
+2025-03-26 23:13:35,238 - INFO - Batch processado: 2 itens
+2025-03-26 23:13:35,239 - INFO - Processado lote 1/1
+2025-03-26 23:13:35,241 - INFO - Enviando 2 chamados processados para previsão
+2025-03-26 23:16:07,909 - INFO - Iniciando processamento para 2 IDs
+2025-03-26 23:16:11,509 - INFO - Modelo spaCy carregado com sucesso
+2025-03-26 23:16:15,110 - ERROR - Erro processando item 13777: Performing an update on the path '_id' would modify the immutable field '_id', full error: {'index': 0, 'code': 66, 'errmsg': "Performing an update on the path '_id' would modify the immutable field '_id'"}
+2025-03-26 23:16:15,217 - ERROR - Erro processando item 13748: Performing an update on the path '_id' would modify the immutable field '_id', full error: {'index': 0, 'code': 66, 'errmsg': "Performing an update on the path '_id' would modify the immutable field '_id'"}
+2025-03-26 23:16:15,218 - INFO - Batch processado: 2 itens
+2025-03-26 23:16:15,218 - INFO - Processado lote 1/1
+2025-03-26 23:16:15,219 - INFO - Enviando 2 chamados processados para previsão
+2025-03-26 23:24:35,895 - INFO - Iniciando processamento para 2 IDs
+2025-03-26 23:24:40,185 - INFO - Modelo spaCy carregado com sucesso
+2025-03-26 23:24:44,305 - ERROR - Erro processando item 13777: Performing an update on the path '_id' would modify the immutable field '_id', full error: {'index': 0, 'code': 66, 'errmsg': "Performing an update on the path '_id' would modify the immutable field '_id'"}
+2025-03-26 23:24:44,434 - ERROR - Erro processando item 13748: Performing an update on the path '_id' would modify the immutable field '_id', full error: {'index': 0, 'code': 66, 'errmsg': "Performing an update on the path '_id' would modify the immutable field '_id'"}
+2025-03-26 23:24:44,436 - INFO - Processamento concluído para 2 itens
+2025-03-26 23:24:44,437 - INFO - Processado lote 1/1
+2025-03-26 23:24:46,519 - ERROR - Erro ao enviar IDs para previsão: 400 Client Error: BAD REQUEST for url: http://localhost:8080/prever
+2025-03-26 23:25:08,901 - ERROR - Erro ao enviar IDs para previsão: 400 Client Error: BAD REQUEST for url: http://localhost:8080/prever
+2025-03-26 23:26:07,359 - INFO - IDs enviados para previsão. Resposta: 200
+2025-03-26 23:30:03,300 - ERROR - Erro ao enviar IDs para previsão: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:8080/prever
+2025-03-26 23:33:51,064 - ERROR - Erro ao enviar IDs para previsão: 404 Client Error: NOT FOUND for url: http://localhost:8080/prever
+2025-03-26 23:38:59,641 - ERROR - Erro ao enviar IDs para previsão: 404 Client Error: NOT FOUND for url: http://localhost:8080/prever
+2025-03-26 23:39:06,798 - ERROR - Erro ao enviar IDs para previsão: 404 Client Error: NOT FOUND for url: http://localhost:8080/prever
+2025-03-26 23:43:00,170 - INFO - Encontrados 2 chamados processados
+2025-03-26 23:43:02,219 - ERROR - Erro ao enviar para previsão: 404 Client Error: NOT FOUND for url: http://localhost:8080/prever
+2025-03-26 23:44:35,790 - INFO - Encontrados 2 chamados processados
+2025-03-26 23:45:56,645 - INFO - Encontrados 3 chamados processados
