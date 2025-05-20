@@ -9,20 +9,23 @@ def limpar_mensagem(mensagem: Optional[str]) -> str:
     
     try:
         # Lista de padrões a serem removidos (em ordem de prioridade)
-        padroes = [
-            r'\{color:[^}]+\}',          # {color:#5b5b5b}
-            r'https?://\S+',              # URLs
-            r'\|!https?://[^|]+\!\|',     # |!http...!|
-            r'\|\s*\|',                   # | |
-            r'\{adf\}.*?\{adf\}',         # {adf}...{adf}
-            r'<\[ #gccode#[^\]]+#!',      # <[ #gccode#...#!
-            r'[\r\n]+',                   # Quebras de linha
-            r'\s{2,}'                     # Múltiplos espaços
-        ]
+        padroes = re.compile('|'.join([
+            r'\{color:[^}]+\}',
+            r'https?://\S+',
+            r'\|!https?://[^|]+\!\|',
+            r'\|\s*\|',
+            r'\{adf\}.*?\{adf\}',
+            r'<\[ #gccode#[^\]]+#!',
+            r'[\r\n]+',
+            r'[^\w\sÀ-ÿ.,!?@#%&*+-]'  # Novo: remove caracteres especiais não-comuns
+        ]), flags=re.IGNORECASE)
         
-        for padrao in padroes:
-            mensagem = re.sub(padrao, ' ', mensagem)
-            
+        # Aplicar todas as substituições de uma vez
+        mensagem = padroes.sub(' ', mensagem)
+        
+        # Normalizar espaços
+        mensagem = ' '.join(mensagem.split())
+        
         return mensagem.strip()
     
     except Exception as e:
