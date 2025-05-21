@@ -333,12 +333,19 @@ def processar_chamados_alternativos(ids: list):
                     "descricao": descricao_processada,  # Campo que a IA espera
                     "descricao_processada": descricao_processada  # Nosso campo adicional
                 })
+
+                # Verifica se atingiu o tamanho do lote
+                if len(processados) >= LOTE_TAMANHO:
+                    logger.info(f"Enviando lote de {LOTE_TAMANHO} chamados alternativos para análise")
+                    enviar_para_previsao(processados)
+                    processados.clear()
                 
             except Exception as e:
                 logger.error(f"Erro processando chamado {chamado_id}: {str(e)}")
                 continue
         
         if processados:
+            logger.info(f"Enviando último lote com {len(processados)} chamados alternativos")
             enviar_para_previsao(processados)
             
     except Exception as e:

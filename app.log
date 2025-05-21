@@ -6624,3 +6624,25 @@
 2025-05-19 20:53:22,549 - INFO - Modelo spaCy carregado com sucesso
 2025-05-19 20:53:33,578 - INFO - Enviando 100 chamados para análise de emoções no Flask.
 2025-05-19 20:58:35,638 - ERROR - Erro ao enviar lote para Flask: HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=300)
+2025-05-20 21:46:50,464 - INFO - Iniciando processamento alternativo para 99 chamados
+2025-05-20 21:46:52,520 - INFO - Encontrados 100 chamados para processar
+2025-05-20 21:46:52,554 - INFO - Chamado 10137 já processado. Pulando...
+2025-05-20 21:46:52,592 - INFO - Chamado 10137 já processado. Pulando...
+2025-05-20 21:46:58,602 - INFO - Modelo spaCy carregado com sucesso
+2025-05-20 21:47:03,453 - INFO - Enviando lote de 10 chamados alternativos para análise
+2025-05-20 21:47:03,454 - INFO - Enviando 10 chamados para análise de emoções no Flask.
+2025-05-20 21:49:14,581 - INFO - Lote enviado com sucesso! Resposta: 200
+2025-05-20 21:49:15,906 - INFO - Enviando lote de 10 chamados alternativos para análise
+2025-05-20 21:49:15,909 - INFO - Enviando 10 chamados para análise de emoções no Flask.
+2025-05-20 21:51:10,870 - INFO - Lote enviado com sucesso! Resposta: 200
+2025-05-20 21:51:12,061 - INFO - Enviando lote de 10 chamados alternativos para análise
+2025-05-20 21:51:12,062 - INFO - Enviando 10 chamados para análise de emoções no Flask.
+2025-05-20 21:52:42,885 - INFO - Lote enviado com sucesso! Resposta: 200
+2025-05-20 21:52:44,759 - INFO - Enviando lote de 10 chamados alternativos para análise
+2025-05-20 21:52:44,761 - INFO - Enviando 10 chamados para análise de emoções no Flask.
+2025-05-20 21:54:17,653 - INFO - Lote enviado com sucesso! Resposta: 200
+2025-05-20 21:54:18,747 - INFO - Enviando lote de 10 chamados alternativos para análise
+2025-05-20 21:54:18,749 - INFO - Enviando 10 chamados para análise de emoções no Flask.
+2025-05-20 21:55:26,037 - INFO - Lote enviado com sucesso! Resposta: 200
+2025-05-20 21:55:28,797 - INFO - Enviando lote de 10 chamados alternativos para análise
+2025-05-20 21:55:28,817 - INFO - Enviando 10 chamados para análise de emoções no Flask.
