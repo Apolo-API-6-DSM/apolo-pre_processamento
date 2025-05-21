@@ -2,70 +2,60 @@ import re
 from typing import Optional
 from modules.shared.logger import logger
 
+# Padrões pré-compilados para performance
+REJECTION_PATTERNS = [re.compile(p, re.IGNORECASE) for p in [
+    r'^<\[ ',
+    r'postman\s+inc',
+    r'avoid\s+suspension',
+    r'^[\W_]+$',
+    r'^[0-9]+$',
+    r'[\U0001F600-\U0001F64F]'
+]]
+
+CLEANING_PATTERNS = [
+    (re.compile(r'\{color[^}]*\}', re.IGNORECASE), ''),
+    (re.compile(r'#gccode#\d+:\d+:\d+:[A-Za-z]+:\d+#', re.IGNORECASE), ''),
+    (re.compile(r'<\[ #gccode#[^\]]+#!', re.IGNORECASE), ''),
+    (re.compile(r'\{adf\}.*?\{adf\}', re.IGNORECASE|re.DOTALL), ''),
+    (re.compile(r'[\U0001F600-\U0001F64F]', re.IGNORECASE), ''),
+    (re.compile(r'[^\w\sÀ-ÿ.,!?@#%&*+-]', re.IGNORECASE), ''),
+    (re.compile(r'^[^a-zA-Z0-9]+'), ''),
+    (re.compile(r'[._]{2,}'), '.'),
+    (re.compile(r'^\d+\s*'), ''),
+    (re.compile(r'^\[\d+-'), ''),
+    (re.compile(r'h\d+\.\s*\w+', re.IGNORECASE), ''),
+    (re.compile(r'\*\s*\d+\s*anexos?\s*\*', re.IGNORECASE), ''),
+    (re.compile(r'\[[^\]]+\.(pdf|jpe?g|png|docx?|xlsx?)\]', re.IGNORECASE), ''),
+    (re.compile(r'(\s*\[){2,}'), ' '),
+    (re.compile(r'(\s*\]){2,}'), ' '),
+    (re.compile(r'[\]\},]+'), ''),
+    (re.compile(r'^\W+'), ''),
+    (re.compile(r'\s+'), ' '),
+    (re.compile(r'\bcolou?r(s|ed|ing)?\b', re.IGNORECASE), '')  # Remove "color", "colour", "colors", etc.
+]
+
 def limpar_descricao(descricao: Optional[str]) -> str:
     """Limpa a descrição do dataset com regras rigorosas de sanitização"""
     if not isinstance(descricao, str):
         return ''
     
     descricao = descricao.strip()
-    if not descricao:
+    if not descricao or len(descricao) > 1000:
         return ''
     
     try:
-        # 1. Verificação rigorosa para mensagens do Postman (case insensitive)
-        postman_pattern = re.compile(
-            r'take\s+\d+\s+min\s+today\s+to\s+see\s+your\s+monitors', 
-            re.IGNORECASE
-        )
-        if postman_pattern.search(descricao):
-            return ''
-
-        # 2. Verificação para outros padrões de rejeição imediata
-        rejection_patterns = [
-            r'^<\[ ',  # Padrão técnico no início
-            r'postman\s+inc',  # Mensagens do Postman
-            r'avoid\s+suspension\s+of\s+your\s+postman\s+account'
-        ]
-        
-        for pattern in rejection_patterns:
-            if re.search(pattern, descricao, re.IGNORECASE):
+        # Verificação de padrões de rejeição
+        for pattern in REJECTION_PATTERNS:
+            if pattern.search(descricao):
                 return ''
 
-        # 3. Lista hierárquica de padrões de limpeza
-        cleaning_patterns = [
-            # Remoção de padrões complexos primeiro
-            (r'\{color[^}]*\}', ''),  # {color...}
-            (r'#gccode#\d+:\d+:\d+:[A-Za-z]+:\d+#', ''),  # #gccode#3:40748:374288:S:1201#
-            (r'<\[ #gccode#[^\]]+#!', ''),  # <[ #gccode#...#!
-            (r'\{adf\}.*?\{adf\}', '', re.DOTALL),  # {adf}...{adf}
-            
-            # Padrões de formatação
-            (r'^\d+\s*', ''),  # Números no início
-            (r'^\[\d+-', ''),  # [número-
-            (r'h\d+\.\s*\w+', ''),  # h1., h2., etc
-            
-            # Padrões de anexos
-            (r'\*\s*\d+\s*anexos?\s*\*', ''),  # *2 anexos*
-            (r'\[[^\]]+\.(pdf|jpe?g|png|docx?|xlsx?)\]', '', re.IGNORECASE),  # [ARQUIVO.pdf]
-            
-            # Limpeza de caracteres especiais
-            (r'(\s*\[){2,}', ' '),  # [[[
-            (r'(\s*\]){2,}', ' '),  # ]]]
-            (r'[\]\},]+', ''),  # Caracteres residuais
-            (r'^\W+', ''),  # Caracteres não-alfanuméricos no início
-            (r'\s+', ' ')  # Espaços múltiplos
-        ]
+        # Aplicação dos padrões de limpeza
+        for pattern, replacement in CLEANING_PATTERNS:
+            descricao = pattern.sub(replacement, descricao)
 
-        # 4. Aplicação dos padrões de limpeza
-        for pattern in cleaning_patterns:
-            if len(pattern) == 2:
-                descricao = re.sub(pattern[0], pattern[1], descricao, flags=re.IGNORECASE)
-            else:
-                descricao = re.sub(pattern[0], pattern[1], descricao, flags=pattern[2])
-
-        # 5. Validação final do resultado
-        descricao = descricao.strip()
-        if not descricao or len(descricao) < 3 or not any(c.isalnum() for c in descricao):
+        # Validação final
+        descricao = ' '.join(descricao.split()).strip()
+        if len(descricao) < 3 or not any(c.isalpha() for c in descricao):
             return ''
             
         return descricao

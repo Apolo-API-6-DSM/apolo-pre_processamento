@@ -6,6 +6,7 @@ from modules.nova_tabela_descricao_dataset.service import extrair_descricao
 from modules.tratamento_descricao_dataset.service import limpar_descricao
 from modules.anonimo.service import Anonimizador
 import requests
+from datetime import datetime
 
 router = APIRouter(prefix="/api/v1")
 
@@ -104,6 +105,28 @@ def processar_e_obter_descricoes(ids: list):
     if chamados:
         enviar_para_previsao(chamados)
 
+def processar_apenas_anonimizacao(textos: list):
+    """Processa apenas a anonimização para o formato alternativo"""
+    db = get_db()
+    resultados = []
+    
+    for texto in textos:
+        try:
+            texto_anonimizado = Anonimizador().anonimizar_texto(str(texto))
+            resultados.append(texto_anonimizado)
+            
+            # Opcional: salvar no MongoDB
+            db["textos_anonimizados"].insert_one({
+                "texto_original": texto,
+                "texto_anonimizado": texto_anonimizado,
+                "data_processamento": datetime.now()
+            })
+            
+        except Exception as e:
+            logger.error(f"Erro ao anonimizar texto: {str(e)}")
+            resultados.append(None)
+    
+    return resultados
 
 def enviar_para_previsao(chamados: list):
     """Envia os chamados para o Flask para análise de sentimentos"""
@@ -192,4 +215,139 @@ def processar_individualmente(chamado_id: str):
         
     except Exception as e:
         logger.error(f"Erro processando item {chamado_id}: {str(e)}")
-        return None
+        return None 
+def processar_apenas_anonimizacao(ids: list):
+    """Processa apenas a anonimização para o formato alternativo, buscando do MongoDB"""
+    db = get_db()
+    resultados = []
+    
+    # Busca as interações alternativas no MongoDB
+    items = list(db["interacoes_alternativas"].find({"chamadoId": {"$in": ids}}))
+    
+    if not items:
+        logger.warning("Nenhuma interação alternativa encontrada para os IDs fornecidos")
+        return resultados
+    
+    for item in items:
+        try:
+            chamado_id = item.get('chamadoId')
+            descricao = item.get('descricao', '')
+            
+            # Verifica se já foi processado
+            processado = db["interacoes_alternativas_processadas"].find_one({"chamadoId": chamado_id})
+            if processado:
+                logger.info(f"Chamado {chamado_id} já processado. Pulando...")
+                continue
+                
+            # Apenas anonimiza a descrição
+            descricao_processada = Anonimizador().anonimizar_texto(str(descricao))
+            
+            # Salva no MongoDB
+            db["interacoes_alternativas_processadas"].update_one(
+                {"chamadoId": chamado_id},
+                {"$set": {
+                    "descricao_original": descricao,
+                    "descricao_processada": descricao_processada,
+                    "data_processamento": datetime.now()
+                }},
+                upsert=True
+            )
+            
+            resultados.append({
+                "chamadoId": chamado_id,
+                "descricao_processada": descricao_processada
+            })
+            
+        except Exception as e:
+            logger.error(f"Erro ao processar item {chamado_id}: {str(e)}")
+            continue
+    
+    return resultados
+
+@router.post("/process-alternative")
+async def process_alternative(request: Request, background_tasks: BackgroundTasks):
+    """Endpoint específico para processamento alternativo"""
+    try:
+        data = await request.json()
+        ids = data.get('ids', [])
+        
+        if not isinstance(ids, list):
+            raise HTTPException(status_code=400, detail="Formato inválido. Esperado {'ids': [...]}")
+        
+        if not ids:
+            logger.info("Nenhum ID recebido para processamento alternativo")
+            return {"status": "success", "message": "Nenhum ID para processar"}
+        
+        logger.info(f"Iniciando processamento alternativo para {len(ids)} chamados")
+        background_tasks.add_task(processar_chamados_alternativos, ids)
+        
+        return {
+            "status": "success",
+            "message": "Processamento alternativo iniciado",
+            "count": len(ids)
+        }
+        
+    except Exception as e:
+        logger.error(f"Erro no endpoint /process-alternative: {str(e)}")
+        raise HTTPException(status_code=500, detail=str(e))
+
+def processar_chamados_alternativos(ids: list):
+    """Processa chamados alternativos (apenas anonimização da descrição)"""
+    db = get_db()
+    processados = []
+    
+    try:
+        chamados = list(db["interacoes_alternativas"].find(
+            {"chamadoId": {"$in": ids}},
+            {"chamadoId": 1, "descricao": 1}
+        ))
+        
+        if not chamados:
+            logger.warning(f"Nenhum chamado encontrado para os IDs: {ids}")
+            return
+            
+        logger.info(f"Encontrados {len(chamados)} chamados para processar")
+        
+        for chamado in chamados:
+            try:
+                chamado_id = chamado["chamadoId"]
+                descricao = chamado.get("descricao", "")
+                
+                if db["interacoes_alternativas_processadas"].find_one({"chamadoId": chamado_id}):
+                    logger.info(f"Chamado {chamado_id} já processado. Pulando...")
+                    continue
+                
+                descricao_processada = Anonimizador().anonimizar_texto(descricao)
+                
+                db["interacoes_alternativas_processadas"].insert_one({
+                    "chamadoId": chamado_id,
+                    "descricao_original": descricao,
+                    "descricao_processada": descricao_processada,
+                    "data_processamento": datetime.now(),
+                    "origem": "Alternativo"
+                })
+                
+                # Envia ambos os campos para manter compatibilidade com a IA
+                processados.append({
+                    "chamadoId": chamado_id,
+                    "descricao": descricao_processada,  # Campo que a IA espera
+                    "descricao_processada": descricao_processada  # Nosso campo adicional
+                })
+
+                # Verifica se atingiu o tamanho do lote
+                if len(processados) >= LOTE_TAMANHO:
+                    logger.info(f"Enviando lote de {LOTE_TAMANHO} chamados alternativos para análise")
+                    enviar_para_previsao(processados)
+                    processados.clear()
+                
+            except Exception as e:
+                logger.error(f"Erro processando chamado {chamado_id}: {str(e)}")
+                continue
+        
+        if processados:
+            logger.info(f"Enviando último lote com {len(processados)} chamados alternativos")
+            enviar_para_previsao(processados)
+            
+    except Exception as e:
+        logger.error(f"Erro no processamento alternativo: {str(e)}")
+        raise
