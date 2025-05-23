@@ -71,27 +71,55 @@ def processar_e_obter_descricoes(ids: list):
 
             logger.info(f"Processando chamadoId: {chamado_id}")
             
+            # Processa a mensagem principal
             mensagem_limpa = limpar_mensagem(item.get("mensagem", ""))
             descricao = extrair_descricao(mensagem_limpa)
             descricao_limpa = limpar_descricao(descricao) if descricao else ""
             
+            # Processa os comentários se existirem
+            comentarios_processados = []
+            if 'comentarios' in item and isinstance(item['comentarios'], list):
+                for comentario in item['comentarios']:
+                    try:
+                        texto_limpo = limpar_mensagem(comentario.get('texto', ''))
+                        if texto_limpo:
+                            comentarios_processados.append({
+                                'origem': comentario.get('origem', ''),
+                                'texto': texto_limpo,
+                                'tipo': comentario.get('tipo', 'comentario'),
+                                'timestamp': comentario.get('timestamp', '')
+                            })
+                    except Exception as e:
+                        logger.error(f"Erro ao processar comentário do chamado {chamado_id}: {str(e)}")
+                        continue
+            
+            # Anonimiza os textos
             if descricao_limpa:
                 descricao_limpa = Anonimizador().anonimizar_texto(descricao_limpa)
             
+            for comentario in comentarios_processados:
+                comentario['texto'] = Anonimizador().anonimizar_texto(comentario['texto'])
+            
+            # Salva no MongoDB
             db["interacoes_processadas"].update_one(
                 {"chamadoId": chamado_id},
                 {"$set": {
                     "mensagem_limpa": mensagem_limpa,
-                    "descricao_dataset": descricao_limpa
+                    "descricao_dataset": descricao_limpa,
+                    "comentarios_processados": comentarios_processados,
+                    "total_comentarios": len(comentarios_processados)
                 }},
                 upsert=True
             )
             
             logger.info(f"ChamadoId {chamado_id} processado e salvo no banco de dados.")
             
+            # Prepara para enviar para análise
+            texto_completo = descricao_limpa + " " + " ".join([c['texto'] for c in comentarios_processados])
             chamados.append({
                 "chamadoId": chamado_id,
-                "descricao": descricao_limpa
+                "descricao": texto_completo.strip(),
+                "tem_comentarios": len(comentarios_processados) > 0
             })
             
             if len(chamados) >= LOTE_TAMANHO:
