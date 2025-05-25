@@ -159,10 +159,28 @@ def processar_apenas_anonimizacao(textos: list):
 def enviar_para_previsao(chamados: list):
     """Envia os chamados para o Flask para análise de sentimentos"""
     try:
+        enviar_para_geracao_keywords(chamados)
         logger.info(f"Enviando {len(chamados)} chamados para análise de emoções no Flask.")
-        
+
         response = requests.post(
             "http://localhost:8080/prever",
+            json={"chamados": chamados},
+            headers={"Content-Type": "application/json"},
+            timeout=300
+        )
+        response.raise_for_status()
+        
+        logger.info(f"Lote enviado com sucesso! Resposta: {response.status_code}")
+    
+    except Exception as e:
+        logger.error(f"Erro ao enviar lote para Flask: {str(e)}")
+
+def enviar_para_geracao_keywords(chamados: list):
+    """Envia os chamados para o Flask para geracao de keywords"""
+    try:
+        logger.info(f"Enviando {len(chamados)} chamados para geracao de keywords")
+        response = requests.post(
+            "http://localhost:8081/extrair-keywords",
             json={"chamados": chamados},
             headers={"Content-Type": "application/json"},
             timeout=300
